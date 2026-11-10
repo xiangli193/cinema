@@ -51,8 +51,8 @@
     "ticket_url": "https://www.douban.com/event/37995595/ticket_auth",
     "tags": [
       "相声",
-      "戏曲",
-      "京华拾遗"
+      "京华拾遗",
+      "戏曲"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -80,8 +80,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%AF%BB%E6%89%BE%E7%8E%8B%E5%8C%BB%E7%94%9F%C2%B7%E5%8C%97%E4%B8%8B%E5%85%B3%E7%89%B9%E5%88%AB%E7%89%88",
     "ticket_url": "https://www.douban.com/event/37879055/ticket_auth",
     "tags": [
-      "喜剧",
       "脱口秀",
+      "喜剧",
       "寻找王医生·北下关特别版"
     ],
     "first_seen": "2026-11-10",
@@ -110,12 +110,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B8%89%E9%87%8C%E5%B1%AF%E8%84%B1%E5%8F%A3%E7%A7%80",
     "ticket_url": "https://www.douban.com/event/37933568/ticket_auth",
     "tags": [
-      "相声脱口秀",
-      "喜剧",
       "大笑喜剧",
-      "互动",
+      "脱口秀",
       "爆笑",
-      "脱口秀"
+      "相声脱口秀",
+      "互动",
+      "喜剧"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -145,8 +145,8 @@
     "tags": [
       "爆笑",
       "相声脱口秀",
-      "脱口秀",
-      "喜剧"
+      "喜剧",
+      "脱口秀"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -174,10 +174,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%9D%92%E6%98%A5%E5%AD%A6%E9%99%A2",
     "ticket_url": "https://www.douban.com/event/37443939/ticket_auth",
     "tags": [
-      "沉浸式",
+      "互动",
       "喜剧",
-      "青春学院",
-      "互动"
+      "沉浸式",
+      "青春学院"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -292,9 +292,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA2026%E6%9C%80%E6%96%B0%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%88%8F%E5%89%A7%E4%BA%92%E5%8A%A8%20%E5%AE%8C%E7%BE%8E%E7%8A%AF%E7%BD%AA%20%E9%9B%B6%E7%A0%B4",
     "ticket_url": "https://www.douban.com/event/37579915/ticket_auth",
     "tags": [
-      "沉浸式",
       "话剧",
-      "互动"
+      "互动",
+      "沉浸式"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -322,11 +322,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA",
     "ticket_url": "https://www.douban.com/event/37532914/ticket_auth",
     "tags": [
-      "喜剧",
       "悬疑",
-      "阿加莎",
+      "经典",
       "爆笑",
-      "经典"
+      "阿加莎",
+      "喜剧"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -354,8 +354,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%BB%9D%E6%8A%80%E7%A7%80%E4%B9%8B%E8%9C%80%E5%9B%BD%E8%8B%B1%E9%9B%84",
     "ticket_url": "https://www.douban.com/event/37143040/ticket_auth",
     "tags": [
-      "戏曲",
-      "绝技秀之蜀国英雄"
+      "绝技秀之蜀国英雄",
+      "戏曲"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -383,12 +383,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B9%8C%E9%BE%99%E7%AC%91%E6%8E%A2",
     "ticket_url": "https://www.douban.com/event/37820879/ticket_auth",
     "tags": [
-      "喜剧",
       "悬疑",
-      "乌龙笑探",
-      "互动",
+      "沉浸式",
       "爆笑",
-      "沉浸式"
+      "互动",
+      "喜剧",
+      "乌龙笑探"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -473,9 +473,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%9C%89%E6%88%8F",
     "ticket_url": "https://www.douban.com/event/37713050/ticket_auth",
     "tags": [
+      "京剧",
       "有戏",
-      "戏曲",
-      "京剧"
+      "戏曲"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -532,11 +532,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%89%8D%E9%97%A8%E5%8C%97%E4%BA%AC%E5%9D%8A",
     "ticket_url": "https://www.douban.com/event/37885398/ticket_auth",
     "tags": [
-      "相声脱口秀",
-      "脱口秀之夜",
-      "喜剧",
       "北京",
-      "脱口秀"
+      "脱口秀",
+      "脱口秀之夜",
+      "相声脱口秀",
+      "喜剧"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -564,11 +564,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98",
     "ticket_url": "https://www.douban.com/event/37836408/ticket_auth",
     "tags": [
-      "悬疑",
       "无人生还",
-      "互动",
+      "话剧",
+      "悬疑",
       "爆笑",
-      "话剧"
+      "互动"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -625,8 +625,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%9B%9B%E5%AD%A3%E5%8C%97%E4%BA%AC.%E8%8C%B6",
     "ticket_url": "https://www.douban.com/event/34797953/ticket_auth",
     "tags": [
-      "戏曲",
       "四季北京.茶",
+      "戏曲",
       "老舍"
     ],
     "first_seen": "2026-11-10",
@@ -655,8 +655,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8C%97%E4%BA%AC%E5%88%98%E8%80%81%E6%A0%B9%E5%A4%A7%E8%88%9E%E5%8F%B0",
     "ticket_url": "https://www.douban.com/event/37710703/ticket_auth",
     "tags": [
-      "其他",
-      "选座购票"
+      "选座购票",
+      "其他"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -684,10 +684,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8C%97%E5%B9%B3404%E5%88%97%E8%BD%A6",
     "ticket_url": "https://www.douban.com/event/37991283/ticket_auth",
     "tags": [
+      "话剧",
+      "沉浸式",
       "辰星剧社",
       "互动",
-      "沉浸式",
-      "话剧",
       "北平404列车"
     ],
     "first_seen": "2026-11-10",
@@ -716,8 +716,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E3%80%8C%E4%B8%8A%E6%96%B0%20%E3%80%8D%E5%9B%BD%E5%86%85%E9%A6%96%E6%A1%A3%E6%9C%BA%E5%85%B3mapping%E8%9E%8D%E5%90%88%E5%BC%8F%E6%83%8A%E6%82%9A%E5%96%9C%E5%89%A7%20",
     "ticket_url": "https://www.douban.com/event/37625200/ticket_auth",
     "tags": [
-      "喜剧",
-      "诡笑楼"
+      "诡笑楼",
+      "喜剧"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -745,10 +745,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B2%89%E6%B5%B8%E5%BC%8F%20%E6%97%B6%E5%85%89%E6%BC%94%E5%94%B1%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37932660/ticket_auth",
     "tags": [
-      "沉浸式",
-      "三里屯",
+      "演唱会",
       "经典",
-      "演唱会"
+      "三里屯",
+      "沉浸式"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -776,11 +776,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%87%BA%E9%A9%AC",
     "ticket_url": "https://www.douban.com/event/37639725/ticket_auth",
     "tags": [
-      "喜剧",
+      "爆笑",
       "地质礼堂",
-      "开心麻花",
       "出马",
-      "爆笑"
+      "喜剧",
+      "开心麻花"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -808,11 +808,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E",
     "ticket_url": "https://www.douban.com/event/37645423/ticket_auth",
     "tags": [
-      "天空之城",
-      "音乐会",
-      "菊次郎的夏天",
       "完整的感动篇章x20首精选曲目",
-      "经典"
+      "天空之城",
+      "经典",
+      "菊次郎的夏天",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -841,9 +841,9 @@
     "ticket_url": "https://www.douban.com/event/37987407/ticket_auth",
     "tags": [
       "民谣",
+      "演唱会",
       "沉浸式",
-      "经典",
-      "演唱会"
+      "经典"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -872,8 +872,8 @@
     "ticket_url": "https://www.douban.com/event/37556115/ticket_auth",
     "tags": [
       "太阳的宝座",
-      "沉浸式",
-      "舞剧"
+      "舞剧",
+      "沉浸式"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -959,9 +959,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%AA%81%E7%84%B6%E7%9A%84%E8%87%AA%E6%88%91%C2%B7%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97",
     "ticket_url": "https://www.douban.com/event/38032649/ticket_auth",
     "tags": [
+      "演唱会",
       "突然的自我·挪威的森林",
-      "沉浸式",
-      "演唱会"
+      "沉浸式"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -989,10 +989,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E8%8A%9D%E5%8A%A0%E5%93%A5",
     "ticket_url": "https://www.douban.com/event/38108763/ticket_auth",
     "tags": [
-      "百老汇",
-      "原版",
+      "音乐剧",
       "芝加哥",
-      "音乐剧"
+      "原版",
+      "百老汇"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1020,8 +1020,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%AF%BB%E6%89%BE%E7%8E%8B%E5%8C%BB%E7%94%9F%C2%B7%E5%8C%97%E4%B8%8B%E5%85%B3%E7%89%B9%E5%88%AB%E7%89%88",
     "ticket_url": "https://www.douban.com/event/37976466/ticket_auth",
     "tags": [
-      "喜剧",
       "脱口秀",
+      "喜剧",
       "寻找王医生·北下关特别版"
     ],
     "first_seen": "2026-11-10",
@@ -1050,8 +1050,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E3%80%8C%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D%E3%80%8D%E7%88%B1%E4%B9%90%E4%B9%8B%E5%9F%8E%20%E5%81%87%E5%A6%82%E7%88%B1%E6%9C%89%E5%A4%A9%E6%84%8F%20%E6%B5%AA%E6%BC%AB%E5%BD%B1%E8%A7%86%20OST",
     "ticket_url": "https://www.douban.com/event/37587956/ticket_auth",
     "tags": [
-      "音乐会",
-      "经典"
+      "经典",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1079,9 +1079,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8C%97%E4%BA%AC%E8%AE%B0%E5%BF%86",
     "ticket_url": "https://www.douban.com/event/36882010/ticket_auth",
     "tags": [
-      "戏曲",
+      "北京",
       "北京记忆",
-      "北京"
+      "戏曲"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1109,10 +1109,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%94%84%E5%AC%9B%E4%BC%A0",
     "ticket_url": "https://www.douban.com/event/37814505/ticket_auth",
     "tags": [
-      "开心麻花",
-      "年度爆剧",
+      "甄嬛传",
       "喜剧",
-      "甄嬛传"
+      "开心麻花",
+      "年度爆剧"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1140,10 +1140,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%95%BF%E5%BE%81",
     "ticket_url": "https://www.douban.com/event/38096899/ticket_auth",
     "tags": [
-      "长征",
-      "音乐会",
       "歌剧",
-      "舞剧"
+      "舞剧",
+      "长征",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1171,9 +1171,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8D%88%E5%A4%9C%E8%B0%83%E6%9F%A5%E5%B1%80",
     "ticket_url": "https://www.douban.com/event/37868280/ticket_auth",
     "tags": [
-      "开心麻花",
+      "午夜调查局",
       "喜剧",
-      "午夜调查局"
+      "开心麻花"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1201,11 +1201,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A9%9A%E7%A4%BC%E5%A4%A7%E9%95%96%E5%AE%A2",
     "ticket_url": "https://www.douban.com/event/37154199/ticket_auth",
     "tags": [
-      "喜剧",
       "婚礼大镖客",
-      "开心麻花",
+      "沉浸式",
       "互动",
-      "沉浸式"
+      "喜剧",
+      "开心麻花"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1233,10 +1233,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BC%80%E5%BF%83%E8%81%8A%E6%96%8B%C2%B7%E4%B8%89%E7%94%9F%E6%B2%89%E6%B5%B8%E7%89%88",
     "ticket_url": "https://www.douban.com/event/36961575/ticket_auth",
     "tags": [
-      "开心麻花",
-      "话剧",
       "开心聊斋·三生沉浸版",
-      "爆笑"
+      "话剧",
+      "爆笑",
+      "开心麻花"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1266,8 +1266,8 @@
     "tags": [
       "经典",
       "话剧",
-      "老舍",
-      "茶馆"
+      "茶馆",
+      "老舍"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1324,13 +1324,13 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%9B%A8%E7%9A%84%E5%8D%B0%E8%AE%B0",
     "ticket_url": "https://www.douban.com/event/37726503/ticket_auth",
     "tags": [
-      "童年记忆",
+      "安妮的梦境",
       "雨的印记",
-      "三里屯",
       "音乐会",
-      "小提琴",
       "钢琴",
-      "安妮的梦境"
+      "三里屯",
+      "童年记忆",
+      "小提琴"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1388,8 +1388,8 @@
     "tags": [
       "相声",
       "喜剧",
-      "脱口秀",
-      "嘻哈包袱铺专场"
+      "嘻哈包袱铺专场",
+      "脱口秀"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1417,9 +1417,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A5%87%E5%A6%99%E5%98%BF%E5%A4%9C%E7%83%9B%E5%85%89%E9%9F%B3%E4%B9%90%E4%BC%9A%E7%88%B1%E4%B9%90%E4%B9%8B%E5%9F%8E%20%E6%B1%89%E6%96%AF%E5%AD%A3%E9%BB%98%E5%8F%8C%E4%B8%BB%E9%A2%98%E9%92%A2%E7%90%B4%20%E5%B0%8F%E6%8F%90",
     "ticket_url": "https://www.douban.com/event/37786550/ticket_auth",
     "tags": [
-      "音乐会",
       "小提琴",
-      "钢琴"
+      "钢琴",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1447,8 +1447,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%BC%93%E6%9B%B2",
     "ticket_url": "https://www.douban.com/event/36508816/ticket_auth",
     "tags": [
-      "戏曲",
       "鼓曲",
+      "戏曲",
       "老舍"
     ],
     "first_seen": "2026-11-10",
@@ -1477,10 +1477,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%97%A0%E5%8E%98%E5%A4%B4",
     "ticket_url": "https://www.douban.com/event/38149797/ticket_auth",
     "tags": [
-      "爆笑",
-      "喜剧",
+      "无厘头",
       "话剧",
-      "无厘头"
+      "爆笑",
+      "喜剧"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1508,11 +1508,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%89%93%E7%84%A6%E8%B5%9E",
     "ticket_url": "https://www.douban.com/event/37976451/ticket_auth",
     "tags": [
-      "打焦赞",
+      "经典",
       "霸王别姬",
       "戏曲",
-      "贵妃醉酒",
-      "经典"
+      "打焦赞",
+      "贵妃醉酒"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1540,8 +1540,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A3%B0%E5%A3%B0%E4%B8%8D%E6%81%AF%2080/90%E5%8D%8E%E8%AF%AD%E6%B5%81%E8%A1%8C%E9%87%91%E6%9B%B2%E6%A6%9C%20%E6%BC%94%E5%94%B1%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37933533/ticket_auth",
     "tags": [
-      "经典",
-      "演唱会"
+      "演唱会",
+      "经典"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1569,8 +1569,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B9%90%E8%A7%81%E5%8F%A4%E5%85%B8%20%E5%B7%B4%E8%B5%AB%E4%B9%8B%E5%85%89%20%E7%A7%A6%E7%AB%8B%E5%B7%8D%E5%A4%A7%E6%8F%90%E7%90%B4%E7%8B%AC%E5%A5%8F%E9%9F%B3%E4%B9%90%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/38119683/ticket_auth",
     "tags": [
-      "音乐会",
-      "古典"
+      "古典",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1598,8 +1598,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%8E%8B%E7%BE%BD%E4%BD%B3%E4%B8%8E%E9%A9%AC%E5%8B%92%E5%AE%A4%E5%86%85%E4%B9%90%E5%9B%A2%E9%9F%B3%E4%B9%90%E4%BC%9A%202026%E9%86%87%20%E8%90%83%E5%8F%A4%E5%85%B8",
     "ticket_url": "https://www.douban.com/event/38103983/ticket_auth",
     "tags": [
-      "音乐会",
-      "古典"
+      "古典",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1627,11 +1627,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%A9%BA%E7%81%B5%20%E7%A6%85%E8%95%B4%E3%80%8C%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E3%80%8D%20%E5%90%8D%E6%9B%B2%E9%9F%B3%E4%B9%90%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37725759/ticket_auth",
     "tags": [
+      "经典",
       "亲子",
       "音乐会",
-      "小提琴",
       "钢琴",
-      "经典"
+      "小提琴"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1659,8 +1659,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8D%A1%E5%86%9CCanon%20in%20D%20%E7%99%BE%E5%B9%B4%20%E5%90%8D%E6%9B%B2%E9%9F%B3%E4%B9%90%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37932937/ticket_auth",
     "tags": [
-      "音乐会",
-      "经典"
+      "经典",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1688,9 +1688,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%88%91%E5%8F%AA%E5%9C%A8%E4%B9%8E%E4%BD%A0%20%E4%B8%80%E4%BA%BA%E4%B8%80%E9%A6%96%E6%88%90%E5%90%8D%E6%9B%B2%20%E8%87%B4%E6%95%AC%20%E8%80%81%E6%AD%8C%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%BC%94%E5%94%B1%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37932000/ticket_auth",
     "tags": [
+      "演唱会",
       "沉浸式",
-      "经典",
-      "演唱会"
+      "经典"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1718,11 +1718,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B8%A4%E5%8F%AA%E7%8B%97%E7%9A%84%E7%94%9F%E6%B4%BB%E6%84%8F%E8%A7%81",
     "ticket_url": "https://www.douban.com/event/36953021/ticket_auth",
     "tags": [
-      "孟京辉",
-      "两只狗的生活意见",
       "话剧",
       "经典",
-      "北京站"
+      "北京站",
+      "两只狗的生活意见",
+      "孟京辉"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1780,8 +1780,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%9B%9B%E5%AD%A3%E6%BD%AE%E4%B9%90%20%E5%8C%97%E9%9B%AA%E5%90%9F%E5%86%AC%202026%E5%8C%97%E4%BA%AC%E6%B0%91%E6%97%8F%E4%B9%90%E5%9B%A2%E6%B0%91%E4%B9%90%E8%B5%8F%E6%9E%90%E9%9F%B3%E4%B9%90",
     "ticket_url": "https://www.douban.com/event/37887839/ticket_auth",
     "tags": [
-      "音乐会",
-      "民乐"
+      "民乐",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1809,14 +1809,14 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%A9%AC%E6%88%8F%E4%B9%8B%E7%8E%8B",
     "ticket_url": "https://www.douban.com/event/38028854/ticket_auth",
     "tags": [
-      "马戏之王",
-      "悲惨世界",
       "演唱会",
-      "百老汇",
-      "爵士",
       "爱乐之城",
       "经典",
-      "音乐剧"
+      "爵士",
+      "马戏之王",
+      "悲惨世界",
+      "音乐剧",
+      "百老汇"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1844,9 +1844,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B8%B8%E8%A5%BF%E6%B9%96-%E9%AC%BC%E6%80%A8%C2%B7%E6%9D%80%E7%94%9F",
     "ticket_url": "https://www.douban.com/event/37932455/ticket_auth",
     "tags": [
+      "游西湖-鬼怨·杀生",
       "戏曲",
-      "焚香记·打神告庙·情探",
-      "游西湖-鬼怨·杀生"
+      "焚香记·打神告庙·情探"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1904,11 +1904,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E8%B4%B5%E5%A6%83%E9%86%89%E9%85%92",
     "ticket_url": "https://www.douban.com/event/37593391/ticket_auth",
     "tags": [
-      "霸王别姬",
+      "经典",
       "三岔口",
+      "霸王别姬",
       "戏曲",
-      "贵妃醉酒",
-      "经典"
+      "贵妃醉酒"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -1965,11 +1965,11 @@
     "ticket_url": "https://www.douban.com/event/37681155/ticket_auth",
     "tags": [
       "天空之城",
+      "经典",
       "交响",
       "亲子",
       "音乐会",
-      "龙猫",
-      "经典"
+      "龙猫"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2025,8 +2025,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8F%9B%E9%80%86%E7%9A%84%E8%80%81%E7%99%BB",
     "ticket_url": "https://www.douban.com/event/38101875/ticket_auth",
     "tags": [
-      "叛逆的老登",
-      "演唱会"
+      "演唱会",
+      "叛逆的老登"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2054,8 +2054,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B9%90%E5%A4%8F%20%E6%A6%9C%E4%B8%AD%E6%A6%9C%20%E4%B9%90%E9%98%9F%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%B5%81%E8%A1%8C%E7%83%AD%E6%AD%8C%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%BC%94%E5%94%B1%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37997596/ticket_auth",
     "tags": [
-      "沉浸式",
-      "演唱会"
+      "演唱会",
+      "沉浸式"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2083,10 +2083,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%95%BF%E9%9D%B4%E7%9A%87%E5%90%8E",
     "ticket_url": "https://www.douban.com/event/38037928/ticket_auth",
     "tags": [
-      "长靴皇后",
-      "百老汇",
+      "音乐剧",
       "原版",
-      "音乐剧"
+      "百老汇",
+      "长靴皇后"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2114,9 +2114,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E3%80%8C%E8%93%9D%E8%89%B2%E5%A4%9A%E7%91%99%E6%B2%B3%E5%9C%86%E8%88%9E%E6%9B%B2%E3%80%8D%E7%BA%AA%E5%BF%B5%20%E5%B0%8F%E7%BA%A6%E7%BF%B0%20%E6%96%BD%E7%89%B9%E5%8A%B3%E6%96%AF%20%E4%BD%9C%E5%93%81%E4%BA%A4%E5%93%8D",
     "ticket_url": "https://www.douban.com/event/37680068/ticket_auth",
     "tags": [
-      "音乐会",
       "经典",
-      "交响"
+      "交响",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2144,9 +2144,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%97%20%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%20%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88%20%E7%94%B5%E5%BD%B1%E9%87%91%E6%9B%B2%E6%9B%B2%E9%9F%B3%E4%B9%90%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37535689/ticket_auth",
     "tags": [
-      "音乐会",
+      "钢琴",
       "经典",
-      "钢琴"
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2174,8 +2174,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8C%97%E4%BA%AC%E4%BA%B2%E5%AD%90%E5%8A%A8%E7%94%BB%E6%B5%81%E8%A1%8C%E6%AD%8C%E6%9B%B2%E6%BC%94%E5%94%B1%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37986969/ticket_auth",
     "tags": [
-      "亲子",
-      "演唱会"
+      "演唱会",
+      "亲子"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2204,9 +2204,9 @@
     "ticket_url": "https://www.douban.com/event/37604670/ticket_auth",
     "tags": [
       "爆笑",
+      "互动",
       "喜剧",
-      "脱口秀",
-      "互动"
+      "脱口秀"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2235,10 +2235,10 @@
     "ticket_url": "https://www.douban.com/event/37932999/ticket_auth",
     "tags": [
       "演唱会",
-      "恶作剧之吻",
-      "放羊的星星",
+      "流星花园",
       "沉浸式",
-      "流星花园"
+      "恶作剧之吻",
+      "放羊的星星"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2267,9 +2267,9 @@
     "ticket_url": "https://www.douban.com/event/37759487/ticket_auth",
     "tags": [
       "话剧",
+      "仙乐飘飘故事集",
       "孟京辉",
-      "北京站",
-      "仙乐飘飘故事集"
+      "北京站"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2297,8 +2297,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA%20%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%20%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88",
     "ticket_url": "https://www.douban.com/event/38030210/ticket_auth",
     "tags": [
-      "音乐会",
-      "经典"
+      "经典",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2326,10 +2326,10 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%881900",
     "ticket_url": "https://www.douban.com/event/37825462/ticket_auth",
     "tags": [
-      "海上钢琴师1900",
-      "音乐会",
+      "钢琴",
       "经典",
-      "钢琴"
+      "海上钢琴师1900",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2357,8 +2357,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%85%83%E5%A4%A7%E9%83%BD",
     "ticket_url": "https://www.douban.com/event/38145875/ticket_auth",
     "tags": [
-      "话剧",
-      "元大都"
+      "元大都",
+      "话剧"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2386,9 +2386,9 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%98%A5%E6%B1%9F%E8%8A%B1%E6%9C%88%E5%A4%9C",
     "ticket_url": "https://www.douban.com/event/37554348/ticket_auth",
     "tags": [
-      "音乐会",
       "古筝",
-      "春江花月夜"
+      "春江花月夜",
+      "音乐会"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2416,8 +2416,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC",
     "ticket_url": "https://www.douban.com/event/38134854/ticket_auth",
     "tags": [
-      "唱支山歌给党听",
       "北京",
+      "唱支山歌给党听",
       "舞剧"
     ],
     "first_seen": "2026-11-10",
@@ -2447,8 +2447,8 @@
     "ticket_url": "https://www.douban.com/event/38139963/ticket_auth",
     "tags": [
       "相声脱口秀",
-      "脱口秀",
-      "好不好"
+      "好不好",
+      "脱口秀"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2508,10 +2508,10 @@
     "ticket_url": "https://www.douban.com/event/37596796/ticket_auth",
     "tags": [
       "国潮",
+      "经典",
       "音乐会",
-      "铁血丹心·笑傲江湖",
       "民乐",
-      "经典"
+      "铁血丹心·笑傲江湖"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"
@@ -2539,8 +2539,8 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%83%8A%E6%A2%A6",
     "ticket_url": "https://www.douban.com/event/38149265/ticket_auth",
     "tags": [
-      "话剧",
-      "惊梦"
+      "惊梦",
+      "话剧"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10"

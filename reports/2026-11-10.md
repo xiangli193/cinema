@@ -4,6 +4,9 @@
 
 > 全部演出都在这里，不会因为你不喜欢就藏起来；⭐ 只是把你可能喜欢的排到每组前面。
 
+> [📱 网页版完整日报](https://xiangli193.github.io/cinema/) ｜ [⭐ 记一笔「我买了 / 想看」](https://github.com/xiangli193/cinema/issues/new?labels=pref&title=%E6%88%91%E4%B9%B0%E4%BA%86%20)
+> 记喜好：点上面链接，标题写 `我买了 音乐剧` 或 `想看 xxx演出名` 提交即可；只影响同品类排序，任何一场都不会被藏起来。
+
 ## 🎭 话剧（15）
 
 1. [小喜鹊剧场沉浸式体验喜剧《青春学院》](https://search.damai.cn/search.htm?keyword=%E9%9D%92%E6%98%A5%E5%AD%A6%E9%99%A2) 🆕 ｜ 11/10 14:00 ｜ ¥99.00
