@@ -206,6 +206,14 @@ def main() -> int:
         log("dry-run：跳过推送")
         print("\n" + md[:900] + "\n…（完整内容见 reports/latest.md）")
     else:
+        if fetched == 0 and not args.no_fetch and cfg["push"]["channels"]:
+            from app.push import send_one
+            alert = (f"⚠️ 今天数据源没有返回任何演出（可能触发风控），"
+                     f"下面这份日报用的是上一次成功抓取的 {len(shows)} 场，请留意日期。"
+                     f"\n\n可在 GitHub 仓库 → Actions 查看本次运行日志，或手动重新运行一次。")
+            for ch in cfg["push"]["channels"]:
+                ok, detail = send_one(ch, f"演出日报 {today} · 数据源提醒", alert, today)
+                log(f"数据源告警推送 {ch['type']}：{'成功' if ok else '失败 ' + detail}")
         results = send_all(cfg, messages, today)
 
     state = {
