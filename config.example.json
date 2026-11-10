@@ -1,0 +1,34 @@
+{
+  "_说明": "复制本文件为 config.json 后修改；或直接运行 python setup.py 由向导生成。cities 用城市拼音，push_time 为每天推送时间。",
+  "cities": ["beijing"],
+  "push_time": "09:00",
+  "douban": {
+    "enabled": true,
+    "selling_pages": 3,
+    "main_pages": 2,
+    "sub_pages": 1,
+    "request_delay": 0.5
+  },
+  "push": {
+    "mode": "compact",
+    "max_bytes_per_message": 3800,
+    "save_local": true,
+    "_通道说明": "把需要的通道 enabled 改成 true 并填入密钥；没填任何通道时，日报仍会每天生成在 reports/ 目录。",
+    "channels": [
+      {"type": "serverchan", "enabled": false, "sendkey": "SCTxxxxxxxxxxxx"},
+      {"type": "pushplus", "enabled": false, "token": "", "topic": ""},
+      {"type": "bark", "enabled": false, "key": "", "server": "https://api.day.app"},
+      {"type": "wecom_bot", "enabled": false, "webhook": ""},
+      {"type": "dingtalk", "enabled": false, "webhook": "", "secret": ""},
+      {"type": "telegram", "enabled": false, "bot_token": "", "chat_id": ""},
+      {"type": "webhook", "enabled": false, "url": ""}
+    ]
+  },
+  "ranking": {
+    "_说明": "preference_never_filters 永远为 true：偏好只影响排序，绝不删掉任何一场演出。",
+    "preference_never_filters": true,
+    "new_bonus": 3.0,
+    "soon_bonus": 3.0,
+    "preference_weight": 1.0
+  }
+}

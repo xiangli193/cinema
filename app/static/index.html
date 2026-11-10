@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>演出雷达 · 每天不漏一场</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <div class="brand">
+      <span class="brand-mark">🎭</span>
+      <div><div class="brand-name">演出雷达</div><div class="brand-sub" id="todayLabel">加载中…</div></div>
+    </div>
+    <div class="stats" id="stats"></div>
+    <div class="actions">
+      <button class="btn ghost" id="btnReport" title="查看今日完整日报">日报</button>
+      <button class="btn ghost" id="btnPrefs" title="查看学到的喜好">我的喜好</button>
+      <button class="btn primary" id="btnRefresh">↻ 刷新演出</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="rule-banner">
+    <div class="rule-icon">✓</div>
+    <div>
+      <b>全量汇总，一场不漏</b>
+      <span>话剧、音乐剧、演唱会、音乐会等所有品类每天都完整列出；你喜欢的只排在每组前面（⭐），绝不会把其它演出藏起来。</span>
+    </div>
+    <span class="rule-tag" id="likedTag">偏好仅影响排序</span>
+  </section>
+
+  <section class="toolbar">
+    <div class="city-row"><span class="lbl">关注城市</span><div id="cityChips" class="chips"></div></div>
+    <div class="search-row">
+      <input id="searchInput" type="search" placeholder="临时搜索（只作用于当前页面，不影响每日推送）" autocomplete="off">
+      <button class="btn tiny ghost" id="btnClearSearch">清空</button>
+    </div>
+  </section>
+
+  <div id="content" class="content"><div class="loading">正在载入演出数据…</div></div>
+</main>
+
+<footer class="wrap foot">
+  <div>演出雷达 · 数据来源：豆瓣同城在售演出 + 自定义源 ｜ 购票跳转大麦搜索页</div>
+  <div>偏好保存在本机 data/preferences.json，不会上传</div>
+</footer>
+
+<div class="drawer-mask" id="drawerMask"></div>
+<aside class="drawer" id="drawer">
+  <div class="drawer-head"><h2>我的喜好</h2><button class="btn tiny ghost" id="btnCloseDrawer">关闭</button></div>
+  <div class="drawer-body" id="drawerBody"></div>
+</aside>
+
+<div class="toast" id="toast"></div>
+<script src="/app.js"></script>
+</body>
+</html>

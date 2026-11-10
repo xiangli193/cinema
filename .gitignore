@@ -1,0 +1,18 @@
+# 本机私有配置（可能含推送密钥）—— 绝不上传
+config.json
+logs/
+*.log
+
+# 本机临时/缓存
+__pycache__/
+*.py[cod]
+.tmp/
+.workbuddy/
+.DS_Store
+
+# 本机手工导入/自定义源（可能含私有地址或密钥）
+data/inbox.json
+data/sources.json
+
+# 注意：data/shows.json、data/preferences.json、reports/、docs/ 必须提交，
+# 它们是云端任务的「记忆」和网页版日报。请务必使用私有仓库。

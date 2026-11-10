@@ -1,0 +1,71 @@
+name: 演出日报
+
+# 云端定时：GitHub 的服务器执行，你的电脑关机、断网都不影响。
+# 改推送时间：cron 用 UTC，北京时间减 8 小时。例如北京 20:00 -> '0 12 * * *'。
+on:
+  schedule:
+    - cron: '0 1 * * *'   # UTC 01:00 = 北京时间 09:00
+  workflow_dispatch:       # 可在 Actions 页面手动点「Run workflow」立刻测试
+
+permissions:
+  contents: write          # 回写演出库 / 喜好 / 日报
+  issues: write            # 读取并关闭手机端提交的「记一笔」Issue
+
+concurrency:
+  group: show-radar-daily
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 抓取演出并推送到手机
+        env:
+          # 只填你要用的通道密钥即可，其余留空会自动跳过
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+          SERVERCHAN_CHANNEL: ${{ secrets.SERVERCHAN_CHANNEL }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          BARK_KEY: ${{ secrets.BARK_KEY }}
+          BARK_SERVER: ${{ secrets.BARK_SERVER }}
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CUSTOM_WEBHOOK: ${{ secrets.CUSTOM_WEBHOOK }}
+          # 仓库 Settings → Secrets and variables → Actions → Variables 里可改
+          SHOW_CITIES: ${{ vars.SHOW_CITIES || 'beijing' }}
+          PUSH_MODE: ${{ vars.PUSH_MODE || 'compact' }}
+          MAX_BYTES: ${{ vars.MAX_BYTES || '3800' }}
+          PAGES_URL: ${{ vars.PAGES_URL }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python cloud_entry.py
+
+      - name: 回写演出库、喜好与日报（云端持久化）
+        run: |
+          git config user.name "show-radar-bot"
+          git config user.email "show-radar-bot@users.noreply.github.com"
+          git add -f data/ reports/ docs/
+          if git diff --cached --quiet; then
+            echo "本次无变化，跳过提交"
+          else
+            git commit -m "chore: 演出日报 $(date -u +%F)"
+            git push
+          fi
+
+      - name: 留存本次日报
+        uses: actions/upload-artifact@v4
+        with:
+          name: show-report-${{ github.run_id }}
+          path: |
+            reports/latest.md
+            reports/latest.html
+          retention-days: 14
