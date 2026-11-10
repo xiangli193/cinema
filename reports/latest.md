@@ -1,25 +1,26 @@
 # 🎭 演出日报 · 2026-11-10（周二）
 
-**共 84 场 · 覆盖 11 个品类 · 今日新增 84 场**
+**共 85 场 · 覆盖 11 个品类 · 今日新增 85 场**
 
 > 全部演出都在这里，不会因为你不喜欢就藏起来；⭐ 只是把你可能喜欢的排到每组前面。
 
-## 🎭 话剧（14）
+## 🎭 话剧（15）
 
 1. [小喜鹊剧场沉浸式体验喜剧《青春学院》](https://search.damai.cn/search.htm?keyword=%E9%9D%92%E6%98%A5%E5%AD%A6%E9%99%A2) 🆕 ｜ 11/10 14:00 ｜ ¥99.00
 2. [小喜鹊剧场2026最新沉浸式戏剧互动(完美犯罪）——零破绽犯罪话剧，烧脑预警](https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA2026%E6%9C%80%E6%96%B0%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%88%8F%E5%89%A7%E4%BA%92%E5%8A%A8%20%E5%AE%8C%E7%BE%8E%E7%8A%AF%E7%BD%AA%20%E9%9B%B6%E7%A0%B4) 🆕 ｜ 11/10 16:00 ｜ 价格待定
 3. [小喜鹊剧场「突然好想你」音乐现场](https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA%E3%80%8C%E7%AA%81%E7%84%B6%E5%A5%BD%E6%83%B3%E4%BD%A0%E3%80%8D%E9%9F%B3%E4%B9%90) 🆕 ｜ 11/10 17:30 ｜ 价格待定
-4. [【辰星剧社】 沉浸式RPG互动演《北平404列车》](https://search.damai.cn/search.htm?keyword=%E5%8C%97%E5%B9%B3404%E5%88%97%E8%BD%A6) 🆕 ｜ 11/11 14:30 ｜ ¥358.0
-5. [【地质礼堂】开心麻花惊怂爆笑贺岁《出马》](https://search.damai.cn/search.htm?keyword=%E5%87%BA%E9%A9%AC) 🆕 ｜ 11/11 19:30 ｜ ¥80.00
-6. [开心麻花西部沉浸式互动喜剧《婚礼大镖客》](https://search.damai.cn/search.htm?keyword=%E5%A9%9A%E7%A4%BC%E5%A4%A7%E9%95%96%E5%AE%A2) 🆕 ｜ 11/13 19:30 ｜ ¥100.0
-7. [开心麻花首部惊悚爆笑戏剧《开心聊斋·三生沉浸版》](https://search.damai.cn/search.htm?keyword=%E5%BC%80%E5%BF%83%E8%81%8A%E6%96%8B%C2%B7%E4%B8%89%E7%94%9F%E6%B2%89%E6%B5%B8%E7%89%88) 🆕 ｜ 11/13 19:30 ｜ 价格待定
-8. [老舍经典话剧《茶馆》](https://search.damai.cn/search.htm?keyword=%E8%8C%B6%E9%A6%86) 🆕 ｜ 11/13 19:30 ｜ ¥120.00
-9. [《无厘头》](https://search.damai.cn/search.htm?keyword=%E6%97%A0%E5%8E%98%E5%A4%B4) 🆕 ｜ 11/15 16:00 ｜ 价格待定
-10. [【北京站】孟京辉经典戏剧作品《两只狗的生活意见》](https://search.damai.cn/search.htm?keyword=%E4%B8%A4%E5%8F%AA%E7%8B%97%E7%9A%84%E7%94%9F%E6%B4%BB%E6%84%8F%E8%A7%81) 🆕 ｜ 11/19 19:30 ｜ 价格待定
-11. [【北京站】孟京辉导演 《仙乐飘飘故事集》](https://search.damai.cn/search.htm?keyword=%E4%BB%99%E4%B9%90%E9%A3%98%E9%A3%98%E6%95%85%E4%BA%8B%E9%9B%86) 🆕 ｜ 12/03 19:30 ｜ 价格待定
-12. [国家大剧院原创话剧《元大都》](https://search.damai.cn/search.htm?keyword=%E5%85%83%E5%A4%A7%E9%83%BD) 🆕 ｜ 12/10 19:30 ｜ 价格待定
-13. [【北京站】 孟京辉戏剧作品《恋爱的犀牛》](https://search.damai.cn/search.htm?keyword=%E6%81%8B%E7%88%B1%E7%9A%84%E7%8A%80%E7%89%9B) 🆕 ｜ 12/24 19:30 ｜ 价格待定
-14. [大道文化出品 陈佩斯主演话剧《惊梦》](https://search.damai.cn/search.htm?keyword=%E6%83%8A%E6%A2%A6) 🆕 ｜ 12/31 19:30 ｜ 价格待定
+4. [工体爆笑互动悬疑线下剧场版《无人生还》](https://search.damai.cn/search.htm?keyword=%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98) 🆕 ｜ 11/10 19:30 ｜ 价格待定
+5. [【辰星剧社】 沉浸式RPG互动演《北平404列车》](https://search.damai.cn/search.htm?keyword=%E5%8C%97%E5%B9%B3404%E5%88%97%E8%BD%A6) 🆕 ｜ 11/11 14:30 ｜ ¥358.0
+6. [【地质礼堂】开心麻花惊怂爆笑贺岁《出马》](https://search.damai.cn/search.htm?keyword=%E5%87%BA%E9%A9%AC) 🆕 ｜ 11/11 19:30 ｜ ¥80.00
+7. [开心麻花西部沉浸式互动喜剧《婚礼大镖客》](https://search.damai.cn/search.htm?keyword=%E5%A9%9A%E7%A4%BC%E5%A4%A7%E9%95%96%E5%AE%A2) 🆕 ｜ 11/13 19:30 ｜ ¥100.0
+8. [开心麻花首部惊悚爆笑戏剧《开心聊斋·三生沉浸版》](https://search.damai.cn/search.htm?keyword=%E5%BC%80%E5%BF%83%E8%81%8A%E6%96%8B%C2%B7%E4%B8%89%E7%94%9F%E6%B2%89%E6%B5%B8%E7%89%88) 🆕 ｜ 11/13 19:30 ｜ 价格待定
+9. [老舍经典话剧《茶馆》](https://search.damai.cn/search.htm?keyword=%E8%8C%B6%E9%A6%86) 🆕 ｜ 11/13 19:30 ｜ ¥120.00
+10. [《无厘头》](https://search.damai.cn/search.htm?keyword=%E6%97%A0%E5%8E%98%E5%A4%B4) 🆕 ｜ 11/15 16:00 ｜ 价格待定
+11. [【北京站】孟京辉经典戏剧作品《两只狗的生活意见》](https://search.damai.cn/search.htm?keyword=%E4%B8%A4%E5%8F%AA%E7%8B%97%E7%9A%84%E7%94%9F%E6%B4%BB%E6%84%8F%E8%A7%81) 🆕 ｜ 11/19 19:30 ｜ 价格待定
+12. [【北京站】孟京辉导演 《仙乐飘飘故事集》](https://search.damai.cn/search.htm?keyword=%E4%BB%99%E4%B9%90%E9%A3%98%E9%A3%98%E6%95%85%E4%BA%8B%E9%9B%86) 🆕 ｜ 12/03 19:30 ｜ 价格待定
+13. [国家大剧院原创话剧《元大都》](https://search.damai.cn/search.htm?keyword=%E5%85%83%E5%A4%A7%E9%83%BD) 🆕 ｜ 12/10 19:30 ｜ 价格待定
+14. [【北京站】 孟京辉戏剧作品《恋爱的犀牛》](https://search.damai.cn/search.htm?keyword=%E6%81%8B%E7%88%B1%E7%9A%84%E7%8A%80%E7%89%9B) 🆕 ｜ 12/24 19:30 ｜ 价格待定
+15. [大道文化出品 陈佩斯主演话剧《惊梦》](https://search.damai.cn/search.htm?keyword=%E6%83%8A%E6%A2%A6) 🆕 ｜ 12/31 19:30 ｜ 价格待定
 
 ## 🎤 音乐剧（3）
 

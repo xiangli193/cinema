@@ -24,9 +24,12 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          # 与本机保持一致（本机 3.13）。3.11 及更早不允许 f-string 表达式里出现反斜杠，
+          # 曾导致云端 SyntaxError；如需降版本，请先跑 ast.parse(feature_version=(3, 11)) 自检。
+          python-version: '3.13'
 
       - name: 抓取演出并推送到手机
+        id: daily
         env:
           # 只填你要用的通道密钥即可，其余留空会自动跳过
           SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
@@ -47,7 +50,19 @@ jobs:
           PAGES_URL: ${{ vars.PAGES_URL }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python cloud_entry.py
+        run: |
+          set -o pipefail
+          python cloud_entry.py 2>&1 | tee run.log
+
+      - name: 失败时把日志摘要显示在运行页（方便排查）
+        if: always()
+        run: |
+          if [ -f run.log ]; then
+            echo '### 本次运行日志（最后 40 行）' >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+            tail -40 run.log >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: 回写演出库、喜好与日报（云端持久化）
         run: |

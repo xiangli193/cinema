@@ -110,14 +110,19 @@ def parse_douban_list(text: str, city: str, hint: str = "",
         organizer = strip_tags(_first(r'target="db-event-owner"[^>]*>(.*?)</a>', b, flags=re.S))
         attend = int(_first(r"(\d+)人参加", b, "0") or 0)
         interest = int(_first(r"(\d+)人感兴趣", b, "0") or 0)
-        out.append({
-            "id": f"db-{re.search(r'/event/(\d+)', detail_url).group(1)}",
+        # 注意：正则要写在 f-string 外面 —— Python 3.11 及更早不允许 f-string 表达式里出现反斜杠，
+        # GitHub Actions 默认用的就是 3.11，写进去会直接 SyntaxError（本地 3.13 却看不出来）。
+        m_id = re.search(r"/event/(\d+)", detail_url)
+        item = {
             "title": title, "category_hint": hint, "city": CITY_NAMES.get(city, city),
             "venue": venue[:60], "start": start, "end": end or start,
             "date_text": date_text, "price": price.strip(), "poster": poster,
             "organizer": organizer, "attend": attend, "interest": interest,
             "detail_url": detail_url, "source": "豆瓣同城", "on_selling": on_selling,
-        })
+        }
+        if m_id:
+            item["id"] = "db-" + m_id.group(1)
+        out.append(item)
     return out
 
 
