@@ -55,7 +55,7 @@
       "戏曲"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37879055",
@@ -365,99 +365,6 @@
     "last_seen": "2026-11-14"
   },
   {
-    "id": "db-37812776",
-    "title": "德云社相声大会-德云社三庆园剧场",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-15T14:00:00",
-    "end": "2026-11-22T21:00:00",
-    "date_text": "11月10日 14:00 ~ 11月15日 21:00 ¥ 150.0",
-    "price": "¥ 150.0",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/9e3b978f4d98123.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37812776/",
-    "source": "豆瓣同城",
-    "on_selling": true,
-    "category": "相声脱口秀",
-    "price_min": 150.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B8%E5%A3%B0%E5%A4%A7%E4%BC%9A%20%E5%BE%B7%E4%BA%91%E7%A4%BE%E4%B8%89%E5%BA%86%E5%9B%AD%E5%89%A7%E5%9C%BA",
-    "ticket_url": "https://www.douban.com/event/37812776/ticket_auth",
-    "tags": [
-      "相声脱口秀",
-      "相声"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-15"
-  },
-  {
-    "id": "db-37671638",
-    "title": "老舍经典话剧《茶馆》",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-15T14:00:00",
-    "end": "2027-01-03T15:30:00",
-    "date_text": "11月13日 19:30 ~ 2027年01月03日 15:30 ¥ 120.00",
-    "price": "¥ 120.00",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/3785ec4971225cb.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37671638/",
-    "source": "豆瓣同城",
-    "on_selling": true,
-    "category": "话剧",
-    "price_min": 120.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E8%8C%B6%E9%A6%86",
-    "ticket_url": "https://www.douban.com/event/37671638/ticket_auth",
-    "tags": [
-      "老舍",
-      "茶馆",
-      "话剧",
-      "经典"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-15"
-  },
-  {
-    "id": "db-37933568",
-    "title": "三里屯脱口秀.｜周一至周日｜综艺卡司｜吐槽爆笑大会｜开心互动｜【大笑喜剧】即兴之夜精品秀＞",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-15T14:25:00",
-    "end": "2026-12-20T21:00:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/602a41a32795573.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37933568/",
-    "source": "豆瓣同城",
-    "on_selling": true,
-    "category": "相声脱口秀",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B8%89%E9%87%8C%E5%B1%AF%E8%84%B1%E5%8F%A3%E7%A7%80",
-    "ticket_url": "https://www.douban.com/event/37933568/ticket_auth",
-    "tags": [
-      "互动",
-      "大笑喜剧",
-      "相声脱口秀",
-      "喜剧",
-      "爆笑",
-      "脱口秀"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-15"
-  },
-  {
     "id": "db-38108763",
     "title": "百老汇原版音乐剧《芝加哥》30周年纪念版",
     "category_hint": "",
@@ -484,38 +391,6 @@
       "芝加哥",
       "音乐剧",
       "百老汇"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-15"
-  },
-  {
-    "id": "db-37885398",
-    "title": "【北京】【脱口秀之夜】前门北京坊｜喜剧部落|开心狂欢|超强阵容|新喜剧/漫才|sketch前门",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-15T15:00:00",
-    "end": "2026-11-30T21:00:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/57f79d0e4cdcb9a.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37885398/",
-    "source": "豆瓣同城",
-    "on_selling": true,
-    "category": "相声脱口秀",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%89%8D%E9%97%A8%E5%8C%97%E4%BA%AC%E5%9D%8A",
-    "ticket_url": "https://www.douban.com/event/37885398/ticket_auth",
-    "tags": [
-      "脱口秀之夜",
-      "北京",
-      "相声脱口秀",
-      "喜剧",
-      "脱口秀"
     ],
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-15"
@@ -638,459 +513,6 @@
     "last_seen": "2026-11-15"
   },
   {
-    "id": "db-38010843",
-    "title": "大笑喜剧北京三里屯脱口秀周末精品脱口秀&单口喜剧爆笑天天开心解压LIVE现场",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T14:00:00",
-    "end": "2026-12-20T21:00:00",
-    "date_text": "11月17日 14:00 ~ 12月20日 21:00 ¥ 30.0",
-    "price": "¥ 30.0",
-    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/3cdb6e9573b927d.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/38010843/",
-    "source": "豆瓣同城·购票直通车",
-    "on_selling": true,
-    "category": "相声脱口秀",
-    "price_min": 30.0,
-    "price_band": "100元以下",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A4%A7%E7%AC%91%E5%96%9C%E5%89%A7%E5%8C%97%E4%BA%AC%E4%B8%89%E9%87%8C%E5%B1%AF%E8%84%B1%E5%8F%A3%E7%A7%80%20%E8%84%B1%E5%8F%A3%E7%A7%80%20%E5%8D%95%E5%8F%A3%E5%96%9C%E5%89%A7",
-    "ticket_url": "https://www.douban.com/event/38010843/ticket_auth",
-    "tags": [
-      "爆笑",
-      "相声脱口秀",
-      "喜剧",
-      "脱口秀"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37799507",
-    "title": "德云社相声大会-德云社广德楼戏园",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T14:00:00",
-    "end": "2026-11-22T21:30:00",
-    "date_text": "11月17日 14:00 ~ 11月22日 21:30 ¥ 150.0",
-    "price": "¥ 150.0",
-    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/79071172f8b62ed.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37799507/",
-    "source": "豆瓣同城·购票直通车",
-    "on_selling": true,
-    "category": "相声脱口秀",
-    "price_min": 150.0,
-    "price_band": "100-300元",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B8%E5%A3%B0%E5%A4%A7%E4%BC%9A%20%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%B9%BF%E5%BE%B7%E6%A5%BC%E6%88%8F%E5%9B%AD",
-    "ticket_url": "https://www.douban.com/event/37799507/ticket_auth",
-    "tags": [
-      "相声脱口秀",
-      "相声"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37290372",
-    "title": "【金秋特惠】衍晟坊 老北京天桥非遗民俗艺术表演",
-    "category_hint": "戏曲",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T14:20:00",
-    "end": "2026-11-26T17:30:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/8cf10ad98ed37b3.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37290372/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "category": "戏曲",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E8%A1%8D%E6%99%9F%E5%9D%8A%20%E8%80%81%E5%8C%97%E4%BA%AC%E5%A4%A9%E6%A1%A5%E9%9D%9E%E9%81%97%E6%B0%91%E4%BF%97%E8%89%BA%E6%9C%AF%E8%A1%A8%E6%BC%94",
-    "ticket_url": "https://www.douban.com/event/37290372/ticket_auth",
-    "tags": [
-      "戏曲",
-      "金秋特惠"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37579915",
-    "title": "小喜鹊剧场2026最新沉浸式戏剧互动(完美犯罪）——零破绽犯罪话剧，烧脑预警",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T16:00:00",
-    "end": "2026-11-30T21:00:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/e52a9946316543c.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37579915/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "category": "话剧",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA2026%E6%9C%80%E6%96%B0%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%88%8F%E5%89%A7%E4%BA%92%E5%8A%A8%20%E5%AE%8C%E7%BE%8E%E7%8A%AF%E7%BD%AA%20%E9%9B%B6%E7%A0%B4",
-    "ticket_url": "https://www.douban.com/event/37579915/ticket_auth",
-    "tags": [
-      "互动",
-      "话剧",
-      "沉浸式"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37532914",
-    "title": "小喜鹊剧场｜阿加莎式悬疑经典｜金钱诱惑之零号法庭｜ 推理 爆笑 反转 角色扮演",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T16:00:00",
-    "end": "2026-11-30T21:00:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img9.doubanio.com/pview/event_poster/median/public/9047b0c94b58854.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37532914/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "category": "喜剧",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA",
-    "ticket_url": "https://www.douban.com/event/37532914/ticket_auth",
-    "tags": [
-      "悬疑",
-      "阿加莎",
-      "经典",
-      "喜剧",
-      "爆笑"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37143040",
-    "title": "大型多媒体杂技《绝技秀之蜀国英雄》",
-    "category_hint": "戏曲",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T16:10:00",
-    "end": "2026-11-30T18:40:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/3edbbdd83e631aa.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37143040/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "category": "戏曲",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%BB%9D%E6%8A%80%E7%A7%80%E4%B9%8B%E8%9C%80%E5%9B%BD%E8%8B%B1%E9%9B%84",
-    "ticket_url": "https://www.douban.com/event/37143040/ticket_auth",
-    "tags": [
-      "绝技秀之蜀国英雄",
-      "戏曲"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37820879",
-    "title": "北京夺命连环局沉浸式爆笑喜剧《乌龙笑探》悬疑反转|互动天花板|推理喜剧",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T16:30:00",
-    "end": "2026-12-03T21:00:00",
-    "date_text": "11月17日 16:30 ~ 12月03日 21:00 ¥ 88.00",
-    "price": "¥ 88.00",
-    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/8fdde0f12160d9c.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37820879/",
-    "source": "豆瓣同城·购票直通车",
-    "on_selling": true,
-    "category": "喜剧",
-    "price_min": 88.0,
-    "price_band": "100元以下",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B9%8C%E9%BE%99%E7%AC%91%E6%8E%A2",
-    "ticket_url": "https://www.douban.com/event/37820879/ticket_auth",
-    "tags": [
-      "悬疑",
-      "沉浸式",
-      "喜剧",
-      "互动",
-      "爆笑",
-      "乌龙笑探"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37425540",
-    "title": "小喜鹊剧场「突然好想你」音乐现场",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T17:30:00",
-    "end": "2026-12-31T22:30:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img9.doubanio.com/pview/event_poster/median/public/929e216ead97b66.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37425540/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "category": "话剧",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA%E3%80%8C%E7%AA%81%E7%84%B6%E5%A5%BD%E6%83%B3%E4%BD%A0%E3%80%8D%E9%9F%B3%E4%B9%90",
-    "ticket_url": "https://www.douban.com/event/37425540/ticket_auth",
-    "tags": [
-      "话剧"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37691461",
-    "title": "惊讶喜剧丨周末综艺卡司领衔精品秀丨周中开放麦丨老牌优质俱乐部不踩雷高复购丨东四",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T18:00:00",
-    "end": "2026-11-28T19:10:00",
-    "date_text": "11月17日 18:00 ~ 11月28日 19:10 ¥ 48.00",
-    "price": "¥ 48.00",
-    "poster": "https://img9.doubanio.com/pview/event_poster/small/public/b906b0d5a7f1605.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37691461/",
-    "source": "豆瓣同城·购票直通车",
-    "on_selling": true,
-    "category": "喜剧",
-    "price_min": 48.0,
-    "price_band": "100元以下",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%83%8A%E8%AE%B6%E5%96%9C%E5%89%A7%E4%B8%A8%20%E9%A2%86%E8%A1%94%20%E7%A7%80%E4%B8%A8%E5%91%A8%E4%B8%AD%E5%BC%80%E6%94%BE%E9%BA%A6%E4%B8%A8%E8%80%81%E7%89%8C%E4%BC%98%E8%B4%A8%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%8D%E8%B8%A9",
-    "ticket_url": "https://www.douban.com/event/37691461/ticket_auth",
-    "tags": [
-      "相声脱口秀",
-      "喜剧"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37713050",
-    "title": "创新京剧《有戏》（包括霸王别姬、贵妃醉酒、三岔口、挑滑车、关公开台、京剧风云）",
-    "category_hint": "戏曲",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T19:00:00",
-    "end": "2026-11-30T20:30:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/b233ab630ffc12b.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37713050/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "category": "戏曲",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%9C%89%E6%88%8F",
-    "ticket_url": "https://www.douban.com/event/37713050/ticket_auth",
-    "tags": [
-      "京剧",
-      "有戏",
-      "戏曲"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-36961379",
-    "title": "德云社相声大会-北京学院路德云社",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T19:00:00",
-    "end": "2026-11-22T21:30:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/092f7c39c7a4c07.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/36961379/",
-    "source": "豆瓣同城",
-    "on_selling": true,
-    "category": "喜剧",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B8%E5%A3%B0%E5%A4%A7%E4%BC%9A%20%E5%8C%97%E4%BA%AC%E5%AD%A6%E9%99%A2%E8%B7%AF%E5%BE%B7%E4%BA%91%E7%A4%BE",
-    "ticket_url": "https://www.douban.com/event/36961379/ticket_auth",
-    "tags": [
-      "喜剧",
-      "相声"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37932660",
-    "title": "【三里屯】沉浸式·时光演唱会｜致敬经典｜浪漫情歌｜欧美流行｜怀旧金曲",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T19:30:00",
-    "end": "2026-12-06T21:00:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img9.doubanio.com/pview/event_poster/median/public/522818dc318a6e5.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37932660/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "category": "演唱会",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B2%89%E6%B5%B8%E5%BC%8F%20%E6%97%B6%E5%85%89%E6%BC%94%E5%94%B1%E4%BC%9A",
-    "ticket_url": "https://www.douban.com/event/37932660/ticket_auth",
-    "tags": [
-      "演唱会",
-      "三里屯",
-      "沉浸式",
-      "经典"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "title": "北京必看环境式悬疑戏剧|《法外狂徒》|反转重重|沉浸式观剧|解压神剧不踩雷",
-    "category_hint": "话剧",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T19:30:00",
-    "end": "2026-11-30T21:00:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img2.doubanio.com/pview/event_poster/median/public/ec876e97c6f22ee.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37826710/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "id": "db-37826710",
-    "category": "话剧",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B3%95%E5%A4%96%E7%8B%82%E5%BE%92",
-    "ticket_url": "https://www.douban.com/event/37826710/ticket_auth",
-    "tags": [
-      "话剧",
-      "悬疑",
-      "沉浸式",
-      "环境式",
-      "法外狂徒"
-    ],
-    "first_seen": "2026-11-11",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "title": "工体爆笑互动悬疑线下剧场版《无人生还》｜悬疑爆笑惊悚｜反转反转再反转",
-    "category_hint": "话剧",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T19:30:00",
-    "end": "2026-11-30T21:00:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/6631d7f06efa2c0.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37836408/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "id": "db-37836408",
-    "category": "话剧",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98",
-    "ticket_url": "https://www.douban.com/event/37836408/ticket_auth",
-    "tags": [
-      "话剧",
-      "悬疑",
-      "互动",
-      "爆笑",
-      "无人生还"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-36961320",
-    "title": "德云社相声大会——三里屯德云社剧场",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T19:30:00",
-    "end": "2026-11-22T22:00:00",
-    "date_text": "11月17日 19:30 ~ 11月22日 22:00 ¥ 160.0",
-    "price": "¥ 160.0",
-    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/b8d95ae7d72e019.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/36961320/",
-    "source": "豆瓣同城·购票直通车",
-    "on_selling": true,
-    "category": "喜剧",
-    "price_min": 160.0,
-    "price_band": "100-300元",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B8%E5%A3%B0%E5%A4%A7%E4%BC%9A%20%E4%B8%89%E9%87%8C%E5%B1%AF%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%89%A7%E5%9C%BA",
-    "ticket_url": "https://www.douban.com/event/36961320/ticket_auth",
-    "tags": [
-      "相声脱口秀",
-      "相声"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
     "title": "沉浸式话剧｜神探破案|谋杀陷阱一情人之夜《京城奇妙夜》同款",
     "category_hint": "",
     "city": "北京",
@@ -1121,92 +543,155 @@
     "last_seen": "2026-11-17"
   },
   {
-    "id": "db-34797953",
-    "title": "老舍茶馆原创京味综艺演出《四季北京.茶》",
+    "id": "db-37933568",
+    "title": "三里屯脱口秀.｜周一至周日｜综艺卡司｜吐槽爆笑大会｜开心互动｜【大笑喜剧】即兴之夜精品秀＞",
     "category_hint": "",
     "city": "北京",
     "venue": "",
-    "start": "2026-11-17T19:50:00",
-    "end": "2026-12-30T21:20:00",
+    "start": "2026-11-18T14:00:00",
+    "end": "2026-12-20T21:00:00",
     "date_text": "",
     "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/9c83a438630f617.jpg",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/602a41a32795573.jpg",
     "organizer": "",
     "attend": 0,
     "interest": 0,
-    "detail_url": "https://www.douban.com/event/34797953/",
+    "detail_url": "https://www.douban.com/event/37933568/",
+    "source": "豆瓣同城",
+    "on_selling": true,
+    "category": "相声脱口秀",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B8%89%E9%87%8C%E5%B1%AF%E8%84%B1%E5%8F%A3%E7%A7%80",
+    "ticket_url": "https://www.douban.com/event/37933568/ticket_auth",
+    "tags": [
+      "相声脱口秀",
+      "喜剧",
+      "互动",
+      "爆笑",
+      "脱口秀",
+      "大笑喜剧"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-38010843",
+    "title": "大笑喜剧北京三里屯脱口秀周末精品脱口秀&单口喜剧爆笑天天开心解压LIVE现场",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T14:00:00",
+    "end": "2026-12-20T21:00:00",
+    "date_text": "11月18日 14:00 ~ 12月20日 21:00 ¥ 30.0",
+    "price": "¥ 30.0",
+    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/3cdb6e9573b927d.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/38010843/",
+    "source": "豆瓣同城·购票直通车",
+    "on_selling": true,
+    "category": "相声脱口秀",
+    "price_min": 30.0,
+    "price_band": "100元以下",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A4%A7%E7%AC%91%E5%96%9C%E5%89%A7%E5%8C%97%E4%BA%AC%E4%B8%89%E9%87%8C%E5%B1%AF%E8%84%B1%E5%8F%A3%E7%A7%80%20%E8%84%B1%E5%8F%A3%E7%A7%80%20%E5%8D%95%E5%8F%A3%E5%96%9C%E5%89%A7",
+    "ticket_url": "https://www.douban.com/event/38010843/ticket_auth",
+    "tags": [
+      "喜剧",
+      "爆笑",
+      "相声脱口秀",
+      "脱口秀"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37812776",
+    "title": "德云社相声大会-德云社三庆园剧场",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T14:00:00",
+    "end": "2026-11-22T21:00:00",
+    "date_text": "11月10日 14:00 ~ 11月15日 21:00 ¥ 150.0",
+    "price": "¥ 150.0",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/9e3b978f4d98123.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37812776/",
+    "source": "豆瓣同城",
+    "on_selling": true,
+    "category": "相声脱口秀",
+    "price_min": 150.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B8%E5%A3%B0%E5%A4%A7%E4%BC%9A%20%E5%BE%B7%E4%BA%91%E7%A4%BE%E4%B8%89%E5%BA%86%E5%9B%AD%E5%89%A7%E5%9C%BA",
+    "ticket_url": "https://www.douban.com/event/37812776/ticket_auth",
+    "tags": [
+      "相声",
+      "相声脱口秀"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37799507",
+    "title": "德云社相声大会-德云社广德楼戏园",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T14:00:00",
+    "end": "2026-11-22T21:30:00",
+    "date_text": "11月18日 14:00 ~ 11月22日 21:30 ¥ 150.0",
+    "price": "¥ 150.0",
+    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/79071172f8b62ed.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37799507/",
+    "source": "豆瓣同城·购票直通车",
+    "on_selling": true,
+    "category": "相声脱口秀",
+    "price_min": 150.0,
+    "price_band": "100-300元",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B8%E5%A3%B0%E5%A4%A7%E4%BC%9A%20%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%B9%BF%E5%BE%B7%E6%A5%BC%E6%88%8F%E5%9B%AD",
+    "ticket_url": "https://www.douban.com/event/37799507/ticket_auth",
+    "tags": [
+      "相声",
+      "相声脱口秀"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37290372",
+    "title": "【金秋特惠】衍晟坊 老北京天桥非遗民俗艺术表演",
+    "category_hint": "戏曲",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T14:20:00",
+    "end": "2026-11-26T17:30:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/8cf10ad98ed37b3.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37290372/",
     "source": "豆瓣同城",
     "on_selling": false,
     "category": "戏曲",
     "price_min": 0.0,
     "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%9B%9B%E5%AD%A3%E5%8C%97%E4%BA%AC.%E8%8C%B6",
-    "ticket_url": "https://www.douban.com/event/34797953/ticket_auth",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E8%A1%8D%E6%99%9F%E5%9D%8A%20%E8%80%81%E5%8C%97%E4%BA%AC%E5%A4%A9%E6%A1%A5%E9%9D%9E%E9%81%97%E6%B0%91%E4%BF%97%E8%89%BA%E6%9C%AF%E8%A1%A8%E6%BC%94",
+    "ticket_url": "https://www.douban.com/event/37290372/ticket_auth",
     "tags": [
-      "四季北京.茶",
-      "老舍",
+      "金秋特惠",
       "戏曲"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "db-37710703",
-    "title": "[选座购票]北京刘老根大舞台",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T20:00:00",
-    "end": "2026-11-30T22:00:00",
-    "date_text": "11月17日 20:00 ~ 11月30日 22:00 ¥ 380.0",
-    "price": "¥ 380.0",
-    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/37d3cd3586396f7.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37710703/",
-    "source": "豆瓣同城·购票直通车",
-    "on_selling": true,
-    "category": "其他",
-    "price_min": 380.0,
-    "price_band": "300-600元",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8C%97%E4%BA%AC%E5%88%98%E8%80%81%E6%A0%B9%E5%A4%A7%E8%88%9E%E5%8F%B0",
-    "ticket_url": "https://www.douban.com/event/37710703/ticket_auth",
-    "tags": [
-      "选座购票",
-      "其他"
-    ],
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "title": "猫头鹰喜剧｜每周一二三四六脱口秀开放麦/精选秀@东四",
-    "category_hint": "",
-    "city": "北京",
-    "venue": "",
-    "start": "2026-11-17T20:00:00",
-    "end": "2026-11-30T21:30:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/9c3589d46cab788.jpg",
-    "organizer": "",
-    "attend": 0,
-    "interest": 0,
-    "detail_url": "https://www.douban.com/event/37701878/",
-    "source": "豆瓣同城",
-    "on_selling": false,
-    "id": "db-37701878",
-    "category": "喜剧",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
-    "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%8C%AB%E5%A4%B4%E9%B9%B0%E5%96%9C%E5%89%A7",
-    "ticket_url": "https://www.douban.com/event/37701878/ticket_auth",
-    "tags": [
-      "喜剧",
-      "脱口秀"
-    ],
-    "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37991283",
@@ -1231,14 +716,313 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8C%97%E5%B9%B3404%E5%88%97%E8%BD%A6",
     "ticket_url": "https://www.douban.com/event/37991283/ticket_auth",
     "tags": [
-      "话剧",
       "辰星剧社",
+      "互动",
+      "话剧",
       "沉浸式",
-      "北平404列车",
+      "北平404列车"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37579915",
+    "title": "小喜鹊剧场2026最新沉浸式戏剧互动(完美犯罪）——零破绽犯罪话剧，烧脑预警",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T16:00:00",
+    "end": "2026-11-30T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/e52a9946316543c.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37579915/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "category": "话剧",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA2026%E6%9C%80%E6%96%B0%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%88%8F%E5%89%A7%E4%BA%92%E5%8A%A8%20%E5%AE%8C%E7%BE%8E%E7%8A%AF%E7%BD%AA%20%E9%9B%B6%E7%A0%B4",
+    "ticket_url": "https://www.douban.com/event/37579915/ticket_auth",
+    "tags": [
+      "沉浸式",
+      "话剧",
       "互动"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37532914",
+    "title": "小喜鹊剧场｜阿加莎式悬疑经典｜金钱诱惑之零号法庭｜ 推理 爆笑 反转 角色扮演",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T16:00:00",
+    "end": "2026-11-30T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img9.doubanio.com/pview/event_poster/median/public/9047b0c94b58854.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37532914/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "category": "喜剧",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA",
+    "ticket_url": "https://www.douban.com/event/37532914/ticket_auth",
+    "tags": [
+      "喜剧",
+      "阿加莎",
+      "爆笑",
+      "经典",
+      "悬疑"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37143040",
+    "title": "大型多媒体杂技《绝技秀之蜀国英雄》",
+    "category_hint": "戏曲",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T16:10:00",
+    "end": "2026-11-30T18:40:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/3edbbdd83e631aa.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37143040/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "category": "戏曲",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%BB%9D%E6%8A%80%E7%A7%80%E4%B9%8B%E8%9C%80%E5%9B%BD%E8%8B%B1%E9%9B%84",
+    "ticket_url": "https://www.douban.com/event/37143040/ticket_auth",
+    "tags": [
+      "绝技秀之蜀国英雄",
+      "戏曲"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37820879",
+    "title": "北京夺命连环局沉浸式爆笑喜剧《乌龙笑探》悬疑反转|互动天花板|推理喜剧",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T16:30:00",
+    "end": "2026-12-03T21:00:00",
+    "date_text": "11月18日 16:30 ~ 12月03日 21:00 ¥ 88.00",
+    "price": "¥ 88.00",
+    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/8fdde0f12160d9c.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37820879/",
+    "source": "豆瓣同城·购票直通车",
+    "on_selling": true,
+    "category": "喜剧",
+    "price_min": 88.0,
+    "price_band": "100元以下",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B9%8C%E9%BE%99%E7%AC%91%E6%8E%A2",
+    "ticket_url": "https://www.douban.com/event/37820879/ticket_auth",
+    "tags": [
+      "乌龙笑探",
+      "喜剧",
+      "互动",
+      "沉浸式",
+      "爆笑",
+      "悬疑"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37425540",
+    "title": "小喜鹊剧场「突然好想你」音乐现场",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T17:30:00",
+    "end": "2026-12-31T22:30:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img9.doubanio.com/pview/event_poster/median/public/929e216ead97b66.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37425540/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "category": "话剧",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%B0%8F%E5%96%9C%E9%B9%8A%E5%89%A7%E5%9C%BA%E3%80%8C%E7%AA%81%E7%84%B6%E5%A5%BD%E6%83%B3%E4%BD%A0%E3%80%8D%E9%9F%B3%E4%B9%90",
+    "ticket_url": "https://www.douban.com/event/37425540/ticket_auth",
+    "tags": [
+      "话剧"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37691461",
+    "title": "惊讶喜剧丨周末综艺卡司领衔精品秀丨周中开放麦丨老牌优质俱乐部不踩雷高复购丨东四",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T18:00:00",
+    "end": "2026-11-28T19:10:00",
+    "date_text": "11月18日 18:00 ~ 11月28日 19:10 ¥ 48.00",
+    "price": "¥ 48.00",
+    "poster": "https://img9.doubanio.com/pview/event_poster/small/public/b906b0d5a7f1605.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37691461/",
+    "source": "豆瓣同城·购票直通车",
+    "on_selling": true,
+    "category": "喜剧",
+    "price_min": 48.0,
+    "price_band": "100元以下",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%83%8A%E8%AE%B6%E5%96%9C%E5%89%A7%E4%B8%A8%20%E9%A2%86%E8%A1%94%20%E7%A7%80%E4%B8%A8%E5%91%A8%E4%B8%AD%E5%BC%80%E6%94%BE%E9%BA%A6%E4%B8%A8%E8%80%81%E7%89%8C%E4%BC%98%E8%B4%A8%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%8D%E8%B8%A9",
+    "ticket_url": "https://www.douban.com/event/37691461/ticket_auth",
+    "tags": [
+      "喜剧",
+      "相声脱口秀"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "title": "俄罗斯亚历山大红旗歌舞团“炽热与深情”音乐会",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:00:00",
+    "end": "2026-11-22T20:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img9.doubanio.com/pview/event_poster/median/public/d366151301f57e5.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/38029971/",
+    "source": "豆瓣同城",
+    "on_selling": true,
+    "id": "db-38029971",
+    "category": "音乐会",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E7%BA%A2%E6%97%97%E6%AD%8C%E8%88%9E%E5%9B%A2%20%E7%82%BD%E7%83%AD%E4%B8%8E%E6%B7%B1%E6%83%85%20%E9%9F%B3%E4%B9%90%E4%BC%9A",
+    "ticket_url": "https://www.douban.com/event/38029971/ticket_auth",
+    "tags": [
+      "音乐会"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37713050",
+    "title": "创新京剧《有戏》（包括霸王别姬、贵妃醉酒、三岔口、挑滑车、关公开台、京剧风云）",
+    "category_hint": "戏曲",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:00:00",
+    "end": "2026-11-30T20:30:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/b233ab630ffc12b.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37713050/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "category": "戏曲",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%9C%89%E6%88%8F",
+    "ticket_url": "https://www.douban.com/event/37713050/ticket_auth",
+    "tags": [
+      "京剧",
+      "有戏",
+      "戏曲"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-36961379",
+    "title": "德云社相声大会-北京学院路德云社",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:00:00",
+    "end": "2026-11-22T21:30:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/092f7c39c7a4c07.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/36961379/",
+    "source": "豆瓣同城",
+    "on_selling": true,
+    "category": "喜剧",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B8%E5%A3%B0%E5%A4%A7%E4%BC%9A%20%E5%8C%97%E4%BA%AC%E5%AD%A6%E9%99%A2%E8%B7%AF%E5%BE%B7%E4%BA%91%E7%A4%BE",
+    "ticket_url": "https://www.douban.com/event/36961379/ticket_auth",
+    "tags": [
+      "相声",
+      "喜剧"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "title": "[年度金奖]高口碑必看！现象级光影悬疑剧《禁忌的色彩》",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:30:00",
+    "end": "2027-01-03T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/6d62512bbaecf27.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37835885/",
+    "source": "豆瓣同城",
+    "on_selling": true,
+    "id": "db-37835885",
+    "category": "话剧",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%A6%81%E5%BF%8C%E7%9A%84%E8%89%B2%E5%BD%A9",
+    "ticket_url": "https://www.douban.com/event/37835885/ticket_auth",
+    "tags": [
+      "禁忌的色彩",
+      "悬疑",
+      "话剧",
+      "年度金奖"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37625200",
@@ -1267,7 +1051,70 @@
       "诡笑楼"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37932660",
+    "title": "【三里屯】沉浸式·时光演唱会｜致敬经典｜浪漫情歌｜欧美流行｜怀旧金曲",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:30:00",
+    "end": "2026-12-06T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img9.doubanio.com/pview/event_poster/median/public/522818dc318a6e5.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37932660/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "category": "演唱会",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B2%89%E6%B5%B8%E5%BC%8F%20%E6%97%B6%E5%85%89%E6%BC%94%E5%94%B1%E4%BC%9A",
+    "ticket_url": "https://www.douban.com/event/37932660/ticket_auth",
+    "tags": [
+      "三里屯",
+      "演唱会",
+      "经典",
+      "沉浸式"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37885398",
+    "title": "【北京】【脱口秀之夜】前门北京坊｜喜剧部落|开心狂欢|超强阵容|新喜剧/漫才|sketch前门",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:30:00",
+    "end": "2026-11-30T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/57f79d0e4cdcb9a.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37885398/",
+    "source": "豆瓣同城",
+    "on_selling": true,
+    "category": "相声脱口秀",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%89%8D%E9%97%A8%E5%8C%97%E4%BA%AC%E5%9D%8A",
+    "ticket_url": "https://www.douban.com/event/37885398/ticket_auth",
+    "tags": [
+      "相声脱口秀",
+      "喜剧",
+      "脱口秀",
+      "脱口秀之夜",
+      "北京"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37639725",
@@ -1292,14 +1139,46 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%87%BA%E9%A9%AC",
     "ticket_url": "https://www.douban.com/event/37639725/ticket_auth",
     "tags": [
-      "开心麻花",
-      "爆笑",
+      "出马",
       "喜剧",
+      "开心麻花",
       "地质礼堂",
-      "出马"
+      "爆笑"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "title": "北京必看环境式悬疑戏剧|《法外狂徒》|反转重重|沉浸式观剧|解压神剧不踩雷",
+    "category_hint": "话剧",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:30:00",
+    "end": "2026-11-30T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img2.doubanio.com/pview/event_poster/median/public/ec876e97c6f22ee.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37826710/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-37826710",
+    "category": "话剧",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B3%95%E5%A4%96%E7%8B%82%E5%BE%92",
+    "ticket_url": "https://www.douban.com/event/37826710/ticket_auth",
+    "tags": [
+      "悬疑",
+      "话剧",
+      "法外狂徒",
+      "沉浸式",
+      "环境式"
+    ],
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37932937",
@@ -1324,11 +1203,72 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8D%A1%E5%86%9CCanon%20in%20D%20%E7%99%BE%E5%B9%B4%20%E5%90%8D%E6%9B%B2%E9%9F%B3%E4%B9%90%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37932937/ticket_auth",
     "tags": [
-      "经典",
-      "音乐会"
+      "音乐会",
+      "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "title": "工体爆笑互动悬疑线下剧场版《无人生还》｜悬疑爆笑惊悚｜反转反转再反转",
+    "category_hint": "话剧",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:30:00",
+    "end": "2026-11-30T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/6631d7f06efa2c0.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37836408/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-37836408",
+    "category": "话剧",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98",
+    "ticket_url": "https://www.douban.com/event/37836408/ticket_auth",
+    "tags": [
+      "互动",
+      "话剧",
+      "无人生还",
+      "爆笑",
+      "悬疑"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-36961320",
+    "title": "德云社相声大会——三里屯德云社剧场",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:30:00",
+    "end": "2026-11-22T22:00:00",
+    "date_text": "11月18日 19:30 ~ 11月22日 22:00 ¥ 160.0",
+    "price": "¥ 160.0",
+    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/b8d95ae7d72e019.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/36961320/",
+    "source": "豆瓣同城·购票直通车",
+    "on_selling": true,
+    "category": "喜剧",
+    "price_min": 160.0,
+    "price_band": "100-300元",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B8%E5%A3%B0%E5%A4%A7%E4%BC%9A%20%E4%B8%89%E9%87%8C%E5%B1%AF%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%89%A7%E5%9C%BA",
+    "ticket_url": "https://www.douban.com/event/36961320/ticket_auth",
+    "tags": [
+      "相声",
+      "相声脱口秀"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
   },
   {
     "title": "沉浸式魔术话剧《魔幻世家》",
@@ -1361,6 +1301,94 @@
     "last_seen": "2026-11-17"
   },
   {
+    "title": "突然好想你·我们的爱·后来 流行金曲沉浸式演唱会",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:30:00",
+    "end": "2026-12-17T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/52bf74f5704958c.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37931810/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-37931810",
+    "category": "演唱会",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%AA%81%E7%84%B6%E5%A5%BD%E6%83%B3%E4%BD%A0%20%E6%88%91%E4%BB%AC%E7%9A%84%E7%88%B1%20%E5%90%8E%E6%9D%A5%20%E6%B5%81%E8%A1%8C%E9%87%91%E6%9B%B2%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%BC%94%E5%94%B1%E4%BC%9A",
+    "ticket_url": "https://www.douban.com/event/37931810/ticket_auth",
+    "tags": [
+      "演唱会",
+      "沉浸式"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-34797953",
+    "title": "老舍茶馆原创京味综艺演出《四季北京.茶》",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T19:50:00",
+    "end": "2026-12-30T21:20:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/9c83a438630f617.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/34797953/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "category": "戏曲",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%9B%9B%E5%AD%A3%E5%8C%97%E4%BA%AC.%E8%8C%B6",
+    "ticket_url": "https://www.douban.com/event/34797953/ticket_auth",
+    "tags": [
+      "四季北京.茶",
+      "老舍",
+      "戏曲"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37710703",
+    "title": "[选座购票]北京刘老根大舞台",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T20:00:00",
+    "end": "2026-11-30T22:00:00",
+    "date_text": "11月18日 20:00 ~ 11月30日 22:00 ¥ 380.0",
+    "price": "¥ 380.0",
+    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/37d3cd3586396f7.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37710703/",
+    "source": "豆瓣同城·购票直通车",
+    "on_selling": true,
+    "category": "其他",
+    "price_min": 380.0,
+    "price_band": "300-600元",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8C%97%E4%BA%AC%E5%88%98%E8%80%81%E6%A0%B9%E5%A4%A7%E8%88%9E%E5%8F%B0",
+    "ticket_url": "https://www.douban.com/event/37710703/ticket_auth",
+    "tags": [
+      "选座购票",
+      "其他"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
     "id": "db-36930343",
     "title": "单立人DownTown脱口秀|单口喜剧|新喜剧|音乐喜剧|一路靠北，帆不凡，邱月，二维马，天一",
     "category_hint": "",
@@ -1383,11 +1411,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8D%95%E7%AB%8B%E4%BA%BADownTown%E8%84%B1%E5%8F%A3%E7%A7%80",
     "ticket_url": "https://www.douban.com/event/36930343/ticket_auth",
     "tags": [
-      "喜剧",
-      "脱口秀"
+      "脱口秀",
+      "喜剧"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-36280700",
@@ -1412,11 +1440,40 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%96%9C%E7%95%AA%E5%96%9C%E5%89%A7",
     "ticket_url": "https://www.douban.com/event/36280700/ticket_auth",
     "tags": [
-      "喜剧",
-      "脱口秀"
+      "脱口秀",
+      "喜剧"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "title": "猫头鹰喜剧｜每周一二三四六脱口秀开放麦/精选秀@东四",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-18T20:00:00",
+    "end": "2026-11-30T21:30:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/9c3589d46cab788.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37701878/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-37701878",
+    "category": "喜剧",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%8C%AB%E5%A4%B4%E9%B9%B0%E5%96%9C%E5%89%A7",
+    "ticket_url": "https://www.douban.com/event/37701878/ticket_auth",
+    "tags": [
+      "脱口秀",
+      "喜剧"
+    ],
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37932000",
@@ -1446,7 +1503,7 @@
       "沉浸式"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "《冬日之梦》卞祖善与中央芭蕾舞团交响乐团演绎柴科夫斯基音乐会",
@@ -1502,14 +1559,14 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B8%A4%E5%8F%AA%E7%8B%97%E7%9A%84%E7%94%9F%E6%B4%BB%E6%84%8F%E8%A7%81",
     "ticket_url": "https://www.douban.com/event/36953021/ticket_auth",
     "tags": [
-      "孟京辉",
       "话剧",
+      "孟京辉",
       "两只狗的生活意见",
       "北京站",
       "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38131517",
@@ -1521,25 +1578,25 @@
     "end": "2026-11-22T21:00:00",
     "date_text": "11月20日 19:30 ~ 11月22日 21:00 ¥ 220.0",
     "price": "¥ 220.0",
-    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/d6e2859daff6da3.jpg",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/d6e2859daff6da3.jpg",
     "organizer": "",
     "attend": 0,
     "interest": 0,
     "detail_url": "https://www.douban.com/event/38131517/",
-    "source": "豆瓣同城·购票直通车",
+    "source": "豆瓣同城",
     "on_selling": true,
     "category": "相声脱口秀",
     "price_min": 220.0,
-    "price_band": "100-300元",
+    "price_band": "免费/未标价",
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%85%88%E4%B8%8A%E8%BD%A6",
     "ticket_url": "https://www.douban.com/event/38131517/ticket_auth",
     "tags": [
-      "相声脱口秀",
+      "先上车",
       "喜剧",
-      "先上车"
+      "相声脱口秀"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-15"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37887839",
@@ -1564,11 +1621,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%9B%9B%E5%AD%A3%E6%BD%AE%E4%B9%90%20%E5%8C%97%E9%9B%AA%E5%90%9F%E5%86%AC%202026%E5%8C%97%E4%BA%AC%E6%B0%91%E6%97%8F%E4%B9%90%E5%9B%A2%E6%B0%91%E4%B9%90%E8%B5%8F%E6%9E%90%E9%9F%B3%E4%B9%90",
     "ticket_url": "https://www.douban.com/event/37887839/ticket_auth",
     "tags": [
-      "民乐",
-      "音乐会"
+      "音乐会",
+      "民乐"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37587956",
@@ -1627,7 +1684,7 @@
       "戏曲"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37814505",
@@ -1653,12 +1710,12 @@
     "ticket_url": "https://www.douban.com/event/37814505/ticket_auth",
     "tags": [
       "开心麻花",
-      "喜剧",
       "甄嬛传",
-      "年度爆剧"
+      "年度爆剧",
+      "喜剧"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37868280",
@@ -1668,27 +1725,27 @@
     "venue": "",
     "start": "2026-11-20T19:30:00",
     "end": "2026-12-31T19:30:00",
-    "date_text": "",
-    "price": "",
-    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/6c70945c370413a.jpg",
+    "date_text": "11月20日 19:30 ~ 12月31日 19:30 ¥ 100.0",
+    "price": "¥ 100.0",
+    "poster": "https://img3.doubanio.com/pview/event_poster/small/public/6c70945c370413a.jpg",
     "organizer": "",
     "attend": 0,
     "interest": 0,
     "detail_url": "https://www.douban.com/event/37868280/",
-    "source": "豆瓣同城",
+    "source": "豆瓣同城·购票直通车",
     "on_selling": true,
     "category": "喜剧",
-    "price_min": 0.0,
-    "price_band": "免费/未标价",
+    "price_min": 100.0,
+    "price_band": "100-300元",
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8D%88%E5%A4%9C%E8%B0%83%E6%9F%A5%E5%B1%80",
     "ticket_url": "https://www.douban.com/event/37868280/ticket_auth",
     "tags": [
       "午夜调查局",
-      "喜剧",
-      "开心麻花"
+      "开心麻花",
+      "喜剧"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37154199",
@@ -1713,15 +1770,15 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A9%9A%E7%A4%BC%E5%A4%A7%E9%95%96%E5%AE%A2",
     "ticket_url": "https://www.douban.com/event/37154199/ticket_auth",
     "tags": [
+      "喜剧",
       "话剧",
+      "互动",
       "开心麻花",
       "沉浸式",
-      "喜剧",
-      "互动",
       "婚礼大镖客"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-36961575",
@@ -1746,13 +1803,44 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%BC%80%E5%BF%83%E8%81%8A%E6%96%8B%C2%B7%E4%B8%89%E7%94%9F%E6%B2%89%E6%B5%B8%E7%89%88",
     "ticket_url": "https://www.douban.com/event/36961575/ticket_auth",
     "tags": [
+      "开心麻花",
       "爆笑",
       "喜剧",
-      "开心麻花",
       "开心聊斋·三生沉浸版"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "db-37671638",
+    "title": "老舍经典话剧《茶馆》",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-20T19:30:00",
+    "end": "2027-01-03T15:30:00",
+    "date_text": "11月13日 19:30 ~ 2027年01月03日 15:30 ¥ 120.00",
+    "price": "¥ 120.00",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/3785ec4971225cb.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37671638/",
+    "source": "豆瓣同城",
+    "on_selling": true,
+    "category": "话剧",
+    "price_min": 120.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E8%8C%B6%E9%A6%86",
+    "ticket_url": "https://www.douban.com/event/37671638/ticket_auth",
+    "tags": [
+      "老舍",
+      "茶馆",
+      "话剧",
+      "经典"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38028854",
@@ -1817,7 +1905,7 @@
       "戏曲"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38095629",
@@ -1842,12 +1930,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%99%BD%E6%B5%A9%E8%B4%A4%20%E5%B8%83%E9%B2%81%E6%98%942026%E5%B7%A1%E6%BC%94%20%E5%8C%97%E4%BA%AC%E7%AB%99",
     "ticket_url": "https://www.douban.com/event/38095629/ticket_auth",
     "tags": [
-      "小型现场",
       "梦境电台",
+      "小型现场",
       "巡演"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37593391",
@@ -1872,14 +1960,14 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E8%B4%B5%E5%A6%83%E9%86%89%E9%85%92",
     "ticket_url": "https://www.douban.com/event/37593391/ticket_auth",
     "tags": [
-      "贵妃醉酒",
       "三岔口",
+      "戏曲",
       "霸王别姬",
-      "经典",
-      "戏曲"
+      "贵妃醉酒",
+      "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37935174",
@@ -1907,7 +1995,7 @@
       "演唱会"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37645423",
@@ -1932,14 +2020,14 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E",
     "ticket_url": "https://www.douban.com/event/37645423/ticket_auth",
     "tags": [
+      "菊次郎的夏天",
+      "完整的感动篇章x20首精选曲目",
       "音乐会",
       "经典",
-      "完整的感动篇章x20首精选曲目",
-      "天空之城",
-      "菊次郎的夏天"
+      "天空之城"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37681155",
@@ -1948,7 +2036,7 @@
     "city": "北京",
     "venue": "",
     "start": "2026-11-21T19:30:00",
-    "end": "2026-12-19T21:00:00",
+    "end": "2026-12-27T21:00:00",
     "date_text": "",
     "price": "",
     "poster": "https://img3.doubanio.com/pview/event_poster/median/public/e7a86d941b9b19f.jpg",
@@ -1964,15 +2052,15 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E",
     "ticket_url": "https://www.douban.com/event/37681155/ticket_auth",
     "tags": [
-      "音乐会",
       "交响",
-      "经典",
-      "天空之城",
       "亲子",
-      "龙猫"
+      "音乐会",
+      "龙猫",
+      "经典",
+      "天空之城"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38142396",
@@ -2000,7 +2088,7 @@
       "演唱会"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "野肆乐队2026「灵魂手写书」巡演 北京站",
@@ -2054,12 +2142,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A5%87%E5%A6%99%E5%98%BF%E5%A4%9C%E7%83%9B%E5%85%89%E9%9F%B3%E4%B9%90%E4%BC%9A%E7%88%B1%E4%B9%90%E4%B9%8B%E5%9F%8E%20%E6%B1%89%E6%96%AF%E5%AD%A3%E9%BB%98%E5%8F%8C%E4%B8%BB%E9%A2%98%E9%92%A2%E7%90%B4%20%E5%B0%8F%E6%8F%90",
     "ticket_url": "https://www.douban.com/event/37786550/ticket_auth",
     "tags": [
-      "小提琴",
+      "音乐会",
       "钢琴",
-      "音乐会"
+      "小提琴"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-36508816",
@@ -2084,12 +2172,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%BC%93%E6%9B%B2",
     "ticket_url": "https://www.douban.com/event/36508816/ticket_auth",
     "tags": [
-      "鼓曲",
       "老舍",
+      "鼓曲",
       "戏曲"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38101875",
@@ -2118,7 +2206,7 @@
       "叛逆的老登"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37997596",
@@ -2147,7 +2235,7 @@
       "沉浸式"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "《踏歌行》 2026北京古风仙侠金曲ost演唱会",
@@ -2172,11 +2260,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E8%B8%8F%E6%AD%8C%E8%A1%8C",
     "ticket_url": "https://www.douban.com/event/38087455/ticket_auth",
     "tags": [
-      "演唱会",
-      "踏歌行"
+      "踏歌行",
+      "演唱会"
     ],
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38037928",
@@ -2201,13 +2289,13 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%95%BF%E9%9D%B4%E7%9A%87%E5%90%8E",
     "ticket_url": "https://www.douban.com/event/38037928/ticket_auth",
     "tags": [
-      "长靴皇后",
       "音乐剧",
+      "百老汇",
       "原版",
-      "百老汇"
+      "长靴皇后"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37987407",
@@ -2233,12 +2321,12 @@
     "ticket_url": "https://www.douban.com/event/37987407/ticket_auth",
     "tags": [
       "演唱会",
-      "民谣",
       "经典",
-      "沉浸式"
+      "沉浸式",
+      "民谣"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37680068",
@@ -2263,12 +2351,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E3%80%8C%E8%93%9D%E8%89%B2%E5%A4%9A%E7%91%99%E6%B2%B3%E5%9C%86%E8%88%9E%E6%9B%B2%E3%80%8D%E7%BA%AA%E5%BF%B5%20%E5%B0%8F%E7%BA%A6%E7%BF%B0%20%E6%96%BD%E7%89%B9%E5%8A%B3%E6%96%AF%20%E4%BD%9C%E5%93%81%E4%BA%A4%E5%93%8D",
     "ticket_url": "https://www.douban.com/event/37680068/ticket_auth",
     "tags": [
+      "音乐会",
       "交响",
-      "经典",
-      "音乐会"
+      "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37933533",
@@ -2297,7 +2385,7 @@
       "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "东图书场",
@@ -2326,6 +2414,35 @@
     ],
     "first_seen": "2026-11-13",
     "last_seen": "2026-11-17"
+  },
+  {
+    "title": "卡农— 一生必听的世界经典名曲烛光音乐会",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-11-28T14:00:00",
+    "end": "2027-03-28T15:18:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/949977e00f858e8.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37744546/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-37744546",
+    "category": "音乐会",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8D%A1%E5%86%9C%20%E4%B8%80%E7%94%9F%E5%BF%85%E5%90%AC%E7%9A%84%E4%B8%96%E7%95%8C%20%E5%90%8D%E6%9B%B2%E7%83%9B%E5%85%89%E9%9F%B3%E4%B9%90%E4%BC%9A",
+    "ticket_url": "https://www.douban.com/event/37744546/ticket_auth",
+    "tags": [
+      "音乐会",
+      "经典"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
   },
   {
     "title": "五棵松·《叛逆的老登》青春超然演唱会",
@@ -2382,7 +2499,7 @@
       "演唱会"
     ],
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37535689",
@@ -2407,12 +2524,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%97%20%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%20%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88%20%E7%94%B5%E5%BD%B1%E9%87%91%E6%9B%B2%E6%9B%B2%E9%9F%B3%E4%B9%90%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37535689/ticket_auth",
     "tags": [
+      "音乐会",
       "钢琴",
-      "经典",
-      "音乐会"
+      "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37986969",
@@ -2437,11 +2554,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%8C%97%E4%BA%AC%E4%BA%B2%E5%AD%90%E5%8A%A8%E7%94%BB%E6%B5%81%E8%A1%8C%E6%AD%8C%E6%9B%B2%E6%BC%94%E5%94%B1%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37986969/ticket_auth",
     "tags": [
-      "演唱会",
-      "亲子"
+      "亲子",
+      "演唱会"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "《圣诞快乐·劳伦斯先生》经典名曲钢琴音乐会",
@@ -2466,13 +2583,13 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%9C%A3%E8%AF%9E%E5%BF%AB%E4%B9%90%C2%B7%E5%8A%B3%E4%BC%A6%E6%96%AF%E5%85%88%E7%94%9F",
     "ticket_url": "https://www.douban.com/event/38098026/ticket_auth",
     "tags": [
+      "音乐会",
       "钢琴",
-      "经典",
       "圣诞快乐·劳伦斯先生",
-      "音乐会"
+      "经典"
     ],
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37976451",
@@ -2497,14 +2614,14 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%89%93%E7%84%A6%E8%B5%9E",
     "ticket_url": "https://www.douban.com/event/37976451/ticket_auth",
     "tags": [
-      "贵妃醉酒",
       "打焦赞",
+      "戏曲",
       "霸王别姬",
-      "经典",
-      "戏曲"
+      "贵妃醉酒",
+      "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37604670",
@@ -2529,13 +2646,13 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%B8%89%E9%87%8C%E5%B1%AF%E5%A4%AA%E5%8F%A4%E9%87%8C",
     "ticket_url": "https://www.douban.com/event/37604670/ticket_auth",
     "tags": [
+      "互动",
       "爆笑",
       "喜剧",
-      "互动",
       "脱口秀"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37932999",
@@ -2560,14 +2677,46 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B5%81%E6%98%9F%E8%8A%B1%E5%9B%AD",
     "ticket_url": "https://www.douban.com/event/37932999/ticket_auth",
     "tags": [
-      "流星花园",
       "放羊的星星",
-      "恶作剧之吻",
+      "演唱会",
       "沉浸式",
-      "演唱会"
+      "恶作剧之吻",
+      "流星花园"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "title": "长安大戏院12月2日上海戏剧学院附属戏曲学校《醉打蒋门神·大闹飞云浦》《坐宫》《巡营》《长生殿》",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-12-02T19:30:00",
+    "end": "2026-12-02T21:30:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/5934aabca041462.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/38178911/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-38178911",
+    "category": "戏曲",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%86%89%E6%89%93%E8%92%8B%E9%97%A8%E7%A5%9E%C2%B7%E5%A4%A7%E9%97%B9%E9%A3%9E%E4%BA%91%E6%B5%A6",
+    "ticket_url": "https://www.douban.com/event/38178911/ticket_auth",
+    "tags": [
+      "醉打蒋门神·大闹飞云浦",
+      "巡营",
+      "坐宫",
+      "长生殿",
+      "戏曲"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37759487",
@@ -2592,13 +2741,13 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E4%BB%99%E4%B9%90%E9%A3%98%E9%A3%98%E6%95%85%E4%BA%8B%E9%9B%86",
     "ticket_url": "https://www.douban.com/event/37759487/ticket_auth",
     "tags": [
-      "仙乐飘飘故事集",
       "北京站",
+      "仙乐飘飘故事集",
       "话剧",
       "孟京辉"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "英文原版音乐剧《SIX》",
@@ -2624,11 +2773,11 @@
     "ticket_url": "https://www.douban.com/event/37932060/ticket_auth",
     "tags": [
       "音乐剧",
-      "原版",
-      "SIX"
+      "SIX",
+      "原版"
     ],
     "first_seen": "2026-11-13",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "《铁血丹心》经典武侠国风音乐会",
@@ -2684,11 +2833,11 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA%20%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%20%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88",
     "ticket_url": "https://www.douban.com/event/38030210/ticket_auth",
     "tags": [
-      "经典",
-      "音乐会"
+      "音乐会",
+      "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38172232",
@@ -2713,7 +2862,7 @@
       "演唱会"
     ],
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "《我们的爱》《七里香》青春回忆流行金曲演唱会",
@@ -2825,13 +2974,13 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%881900",
     "ticket_url": "https://www.douban.com/event/37825462/ticket_auth",
     "tags": [
-      "经典",
+      "音乐会",
       "钢琴",
-      "海上钢琴师1900",
-      "音乐会"
+      "经典",
+      "海上钢琴师1900"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "【早鸟特惠】浪漫轻古典三重奏-解压音乐会",
@@ -2856,12 +3005,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%B5%AA%E6%BC%AB%E8%BD%BB%E5%8F%A4%E5%85%B8%E4%B8%89%E9%87%8D%E5%A5%8F%20%E9%9F%B3%E4%B9%90%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/38087447/ticket_auth",
     "tags": [
-      "古典",
+      "音乐会",
       "早鸟特惠",
-      "音乐会"
+      "古典"
     ],
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38032649",
@@ -2891,7 +3040,7 @@
       "沉浸式"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "“演绎经典”北京民族乐团音乐会",
@@ -3004,12 +3153,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%98%A5%E6%B1%9F%E8%8A%B1%E6%9C%88%E5%A4%9C",
     "ticket_url": "https://www.douban.com/event/37554348/ticket_auth",
     "tags": [
-      "古筝",
+      "音乐会",
       "春江花月夜",
-      "音乐会"
+      "古筝"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "超口碑行进式沉浸悬疑剧新作——《大宋雄州刺虎奇案》·苗九龄戏剧电影工作室出品",
@@ -3067,7 +3216,38 @@
       "演唱会"
     ],
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "title": "[北京京剧院]每周一剧 京剧《盘夫索夫》",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-12-13T14:00:00",
+    "end": "2026-12-13T16:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/4372bae1bc8d2cb.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/38178897/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-38178897",
+    "category": "戏曲",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%9B%98%E5%A4%AB%E7%B4%A2%E5%A4%AB",
+    "ticket_url": "https://www.douban.com/event/38178897/ticket_auth",
+    "tags": [
+      "京剧",
+      "北京京剧院",
+      "盘夫索夫",
+      "戏曲"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37726503",
@@ -3092,16 +3272,44 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%9B%A8%E7%9A%84%E5%8D%B0%E8%AE%B0",
     "ticket_url": "https://www.douban.com/event/37726503/ticket_auth",
     "tags": [
-      "小提琴",
-      "音乐会",
-      "童年记忆",
       "雨的印记",
-      "三里屯",
+      "安妮的梦境",
       "钢琴",
-      "安妮的梦境"
+      "小提琴",
+      "童年记忆",
+      "音乐会",
+      "三里屯"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "title": "第九届单立人原创喜剧大赛-北京站预选赛「12月14-12月17日」",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-12-14T19:30:00",
+    "end": "2026-12-17T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/3c54248b2fe3e4d.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/38178782/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-38178782",
+    "category": "喜剧",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%AC%AC%E4%B9%9D%E5%B1%8A%E5%8D%95%E7%AB%8B%E4%BA%BA%E5%8E%9F%E5%88%9B%E5%96%9C%E5%89%A7%E5%A4%A7%E8%B5%9B%20%E5%8C%97%E4%BA%AC%E7%AB%99%E9%A2%84%E9%80%89%E8%B5%9B%E3%80%8C12%E6%9C%8814%20",
+    "ticket_url": "https://www.douban.com/event/38178782/ticket_auth",
+    "tags": [
+      "喜剧"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
   },
   {
     "title": "京味儿话剧《老张的哲学》",
@@ -3160,6 +3368,39 @@
     ],
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11"
+  },
+  {
+    "title": "[北京京剧院]每周一剧 京剧《将相和》《挡马》《拜山》",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-12-18T19:00:00",
+    "end": "2026-12-18T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img9.doubanio.com/pview/event_poster/median/public/596ea16ad99b3b5.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/38178909/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-38178909",
+    "category": "戏曲",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%B0%86%E7%9B%B8%E5%92%8C",
+    "ticket_url": "https://www.douban.com/event/38178909/ticket_auth",
+    "tags": [
+      "将相和",
+      "挡马",
+      "拜山",
+      "北京京剧院",
+      "京剧",
+      "戏曲"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38134854",
@@ -3244,11 +3485,11 @@
     "ticket_url": "https://www.douban.com/event/38139963/ticket_auth",
     "tags": [
       "好不好",
-      "相声脱口秀",
-      "脱口秀"
+      "脱口秀",
+      "相声脱口秀"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "长笛于渊、大提琴李诗聪、钢琴吕昕遥诠释德奧经典三重奏音乐会",
@@ -3303,13 +3544,13 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%81%8B%E7%88%B1%E7%9A%84%E7%8A%80%E7%89%9B",
     "ticket_url": "https://www.douban.com/event/36685455/ticket_auth",
     "tags": [
-      "孟京辉",
       "北京站",
       "话剧",
+      "孟京辉",
       "恋爱的犀牛"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "title": "开心麻花2027贺岁音乐剧《英雄本色》",
@@ -3334,12 +3575,12 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E8%8B%B1%E9%9B%84%E6%9C%AC%E8%89%B2",
     "ticket_url": "https://www.douban.com/event/38165068/ticket_auth",
     "tags": [
-      "开心麻花",
       "音乐剧",
+      "开心麻花",
       "英雄本色"
     ],
     "first_seen": "2026-11-13",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37725759",
@@ -3348,7 +3589,7 @@
     "city": "北京",
     "venue": "",
     "start": "2026-12-24T19:30:00",
-    "end": "2026-12-25T21:00:00",
+    "end": "2026-12-26T21:00:00",
     "date_text": "",
     "price": "",
     "poster": "https://img2.doubanio.com/pview/event_poster/median/public/059d52e0d5f8bc1.jpg",
@@ -3364,14 +3605,45 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E7%A9%BA%E7%81%B5%20%E7%A6%85%E8%95%B4%E3%80%8C%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E3%80%8D%20%E5%90%8D%E6%9B%B2%E9%9F%B3%E4%B9%90%E4%BC%9A",
     "ticket_url": "https://www.douban.com/event/37725759/ticket_auth",
     "tags": [
+      "钢琴",
       "小提琴",
-      "音乐会",
-      "经典",
       "亲子",
-      "钢琴"
+      "音乐会",
+      "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
+  },
+  {
+    "title": "[北京京剧院]每周一剧 京剧《武松》",
+    "category_hint": "",
+    "city": "北京",
+    "venue": "",
+    "start": "2026-12-25T19:00:00",
+    "end": "2026-12-25T21:00:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/1b8eb8e181f4f5d.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/38178882/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-38178882",
+    "category": "戏曲",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%AD%A6%E6%9D%BE",
+    "ticket_url": "https://www.douban.com/event/38178882/ticket_auth",
+    "tags": [
+      "京剧",
+      "武松",
+      "北京京剧院",
+      "戏曲"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-37596796",
@@ -3396,14 +3668,14 @@
     "buy_url": "https://search.damai.cn/search.htm?keyword=%E9%93%81%E8%A1%80%E4%B8%B9%E5%BF%83%C2%B7%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96",
     "ticket_url": "https://www.douban.com/event/37596796/ticket_auth",
     "tags": [
+      "民乐",
       "铁血丹心·笑傲江湖",
       "国潮",
       "音乐会",
-      "民乐",
       "经典"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38149265",
@@ -3462,7 +3734,7 @@
       "脱口秀"
     ],
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17"
+    "last_seen": "2026-11-18"
   },
   {
     "id": "db-38150361",
@@ -3494,6 +3766,34 @@
     "last_seen": "2026-11-12"
   },
   {
+    "title": "春之声大拜年—中外名曲 2027 新春音乐会",
+    "category_hint": "音乐会",
+    "city": "北京",
+    "venue": "",
+    "start": "2027-01-15T10:30:00",
+    "end": "2027-02-10T11:40:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img9.doubanio.com/pview/event_poster/median/public/6dabf3ebc8ca7d6.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37535692/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-37535692",
+    "category": "音乐会",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E6%98%A5%E4%B9%8B%E5%A3%B0%E5%A4%A7%E6%8B%9C%E5%B9%B4%20%E4%B8%AD%E5%A4%96%E5%90%8D%E6%9B%B2%202027%20%E6%96%B0%E6%98%A5%E9%9F%B3%E4%B9%90%E4%BC%9A",
+    "ticket_url": "https://www.douban.com/event/37535692/ticket_auth",
+    "tags": [
+      "音乐会"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
     "title": "「下雨的时候」赵闻达单簧管治愈系独奏音乐会",
     "category_hint": "",
     "city": "北京",
@@ -3520,5 +3820,35 @@
     ],
     "first_seen": "2026-11-17",
     "last_seen": "2026-11-17"
+  },
+  {
+    "title": "重温经典《天空之城》经典动漫作品烛光音乐会",
+    "category_hint": "音乐会",
+    "city": "北京",
+    "venue": "",
+    "start": "2027-02-11T10:30:00",
+    "end": "2027-03-28T11:45:00",
+    "date_text": "",
+    "price": "",
+    "poster": "https://img3.doubanio.com/pview/event_poster/median/public/fb5d4c1e719e0b9.jpg",
+    "organizer": "",
+    "attend": 0,
+    "interest": 0,
+    "detail_url": "https://www.douban.com/event/37320287/",
+    "source": "豆瓣同城",
+    "on_selling": false,
+    "id": "db-37320287",
+    "category": "音乐会",
+    "price_min": 0.0,
+    "price_band": "免费/未标价",
+    "buy_url": "https://search.damai.cn/search.htm?keyword=%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E",
+    "ticket_url": "https://www.douban.com/event/37320287/ticket_auth",
+    "tags": [
+      "音乐会",
+      "经典",
+      "天空之城"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
   }
 ]
