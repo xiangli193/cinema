@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-19",
-  "total": 118,
+  "date": "2026-11-20",
+  "total": 117,
   "categories": 10,
-  "new_today": 3,
+  "new_today": 1,
   "liked": 0,
   "fetched": 423,
   "failed_pages": 0,
   "messages": 9,
   "channels": 1,
-  "sent": 6,
+  "sent": 5,
   "prefs_synced": [],
   "pages_url": "https://xiangli193.github.io/cinema/",
   "repository": "xiangli193/cinema"
